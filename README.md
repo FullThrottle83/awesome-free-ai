@@ -1,16 +1,16 @@
 # Awesome Free AI 🤖
 
-A curated list of awesome free-to-use AI tools, services, and resources. This list focuses on tools with significant value in their free tiers, perfect for professionals, developers, and creators.
+A curated list of rigorously vetted AI tools, services, and resources with generous, permanent free tiers suitable for professional use. Every tool is verified to provide significant, ongoing value without a time-limited trial.
 
-[![Licens](https://img.shields.io/github/license/Fullthrottle83/awesome-free-ai?style=for-the-badge)](https://github.com/Fullthrottle83/awesome-free-ai/blob/main/LICENSE)
-[![Medverkande](https://img.shields.io/github/contributors/Fullthrottle83/awesome-free-ai?style=for-the-badge)](https://github.com/Fullthrottle83/awesome-free-ai/graphs/contributors)
-[![Ärenden](https://img.shields.io/github/issues/Fullthrottle83/awesome-free-ai?style=for-the-badge)](https://github.com/Fullthrottle83/awesome-free-ai/issues)
+[![License](https://img.shields.io/github/license/Fullthrottle83/awesome-free-ai?style=for-the-badge)](https://github.com/Fullthrottle83/awesome-free-ai/blob/main/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/Fullthrottle83/awesome-free-ai?style=for-the-badge)](https://github.com/Fullthrottle83/awesome-free-ai/graphs/contributors)
+[![Issues](https://img.shields.io/github/issues/Fullthrottle83/awesome-free-ai?style=for-the-badge)](https://github.com/Fullthrottle83/awesome-free-ai/issues)
 
 ---
 
 ## Why This List?
 
-In a world of expensive AI subscriptions, this project aims to be a definitive guide to high-quality, truly useful free resources. The focus is on practical tools you can start using today.
+In a world of expensive AI subscriptions and misleading "free trials", this project aims to be a definitive, trustworthy guide. The focus is on practical tools you can start using today, with clear details on what "free" actually means.
 
 ## Contributing
 
@@ -22,9 +22,9 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 
 - [🎨 Image & Design](#-image--design)
 - [✍️ Text & Language](#️-text--language)
-- [💻 Code & Development](#-code--development)
+- [💻 Code, Testing & Security](#-code-testing--security)
 - [🚀 Infrastructure & APIs](#-infrastructure--apis)
-- [📊 Data & Analysis](#-data--analysis)
+- [📊 Data, Observability & Analysis](#-data-observability--analysis)
 - [📈 Productivity & Automation](#-productivity--automation)
 
 ---
@@ -54,7 +54,7 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
   - **Free Tier Details:** The free plan allows for 1 AI-crafted post per month on a branded domain.
   - **Tags:** `content-creation`, `seo`, `marketing`, `freemium`
 
-## 💻 Code & Development
+## 💻 Code, Testing & Security
 
 *AI-powered tools to assist with coding, testing, and security analysis.*
 
@@ -124,7 +124,7 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
   - **Free Tier Details:** The free account includes 2,000 API credits per month and allows for a maximum of 2 concurrent connections.
   - **Tags:** `web-scraping`, `api`, `developer-tool`, `freemium`
 
-## 📊 Data & Analysis
+## 📊 Data, Observability & Analysis
 
 *Tools for MLOps, observability, evaluation, web scraping, and user feedback analysis.*
 
