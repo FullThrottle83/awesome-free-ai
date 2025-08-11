@@ -21,7 +21,10 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 ## Table of Contents
 
 - [🎨 Image & Design](#-image--design)
+- [🎵 Audio & Music](#-audio--music)
+- [🎬 Video](#-video)
 - [✍️ Text & Language](#️-text--language)
+- [🤖 Conversational & Social AI](#-conversational--social-ai)
 - [💻 Code, Testing & Security](#-code-testing--security)
 - [🚀 Infrastructure & APIs](#-infrastructure--apis)
 - [📊 Data, Observability & Analysis](#-data-observability--analysis)
@@ -33,169 +36,274 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 
 *Tools for creating and editing images, designs, and vector graphics.*
 
-- [**Snappify**](https://snappify.com/) - A tool for developers to create visually stunning code presentations, videos, and infographics.
-  - **Free Tier Details:** The free plan includes storage for 3 "snaps," 5 slides per presentation (watermarked), 50 API calls/month (watermarked), and other feature limitations like a single code editor per slide.
-  - **Tags:** `code-snippet`, `presentation`, `developer-tool`, `freemium`
+- [**ComfyUI**](https://www.comfy.org/) - A powerful and modular node-based graphical user interface for Stable Diffusion.
+  - **Free Tier Details:** Free and open-source software (GPLv3 license) that runs locally, offering full control and unlimited use.
+  - **Tags:** `image-generation`, `stable-diffusion`, `open-source`, `node-based`
+- [**Craiyon**](https://www.craiyon.com/) - An AI image generator that creates images from text prompts, formerly known as DALL-E mini.
+  - **Free Tier Details:** Offers a permanent free tier with unlimited image generations, supported by ads. Commercial use is permitted with attribution.
+  - **Tags:** `image-generation`, `ad-supported`, `commercial-use`, `free`
+- [**DeepAI**](https://deepai.org/) - An AI platform offering a suite of generative tools, including a text-to-image API.
+  - **Free Tier Details:** Provides a free plan that includes a recurring allowance of approximately 100 image generations per month. Commercial use is permitted.
+  - **Tags:** `text-to-image`, `api`, `freemium`
+- [**Fooocus**](https://github.com/lllyasviel/Fooocus) - An open-source image generating software that simplifies the use of Stable Diffusion XL.
+  - **Free Tier Details:** Free and open-source software (GPL-3.0 license) that runs locally, offering users unlimited generation capabilities without cost.
+  - **Tags:** `image-generation`, `stable-diffusion`, `open-source`, `ui`
+- [**Ideogram.ai**](https://ideogram.ai/) - An AI image generator with a strong focus on rendering text accurately within images.
+  - **Free Tier Details:** Offers a permanent free tier with a recurring daily allowance of generation credits.
+  - **Tags:** `image-generation`, `typography`, `freemium`
+- [**InvokeAI**](https://github.com/invoke-ai/InvokeAI) - An open-source generative AI platform for creating and managing visual assets with Stable Diffusion.
+  - **Free Tier Details:** The "Community Edition" is released under the commercially-friendly Apache 2.0 license, allowing for free personal and commercial use.
+  - **Tags:** `image-generation`, `stable-diffusion`, `open-source`, `digital-assets`
+- [**Pollinations.ai**](https://pollinations.ai/) - A web-based platform for creating generative art and media using various AI models.
+  - **Free Tier Details:** Offers a free tier for AI media generation with access to a wide range of models.
+  - **Tags:** `image-generation`, `video-generation`, `art`, `freemium`
+- [**stablediffusion-webui**](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - A popular and feature-rich browser interface for Stable Diffusion models.
+  - **Free Tier Details:** Free and open-source software (AGPL-3.0 license) that runs locally, giving users complete control over their models and data.
+  - **Tags:** `image-generation`, `stable-diffusion`, `ui`, `open-source`
+- [**stablediffusionweb.com**](https://stablediffusionweb.com/) - A free web-based interface for generating images with Stable Diffusion models.
+  - **Free Tier Details:** Provides a free-to-use web interface for Stable Diffusion, offering an accessible way to use the model without local installation.
+  - **Tags:** `image-generation`, `stable-diffusion`, `web-based`, `free`
+- [**Upscayl**](https://www.upscayl.org/) - A free and open-source desktop application for AI image upscaling.
+  - **Free Tier Details:** Free and open-source software (AGPL-3.0 license) that runs locally, providing unlimited image upscaling.
+  - **Tags:** `image-upscaling`, `open-source`, `desktop-app`, `unlimited`
+
+## 🎵 Audio & Music
+
+*Tools for generating music, voice, and other audio content.*
+
+- [**Suno.ai**](https://suno.ai/) - An AI music and song generation platform that creates vocal and instrumental music from text prompts.
+  - **Free Tier Details:** Offers a permanent free tier with recurring daily credits for music generation.
+  - **Tags:** `music-generation`, `ai-vocals`, `freemium`
+- [**Udio**](https://www.udio.com/) - An AI music generation platform that creates full tracks, including vocals and lyrics, from text prompts.
+  - **Free Tier Details:** Offers a free tier with recurring monthly credits for music generation.
+  - **Tags:** `music-generation`, `ai-lyrics`, `freemium`
+
+## 🎬 Video
+
+*Tools for creating and editing video content.*
+
+- [**DaVinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve/) - A professional video editing, color correction, visual effects, and audio post-production software.
+  - **Free Tier Details:** The core software is free and exceptionally powerful for professional video editing. **Note:** Its primary Al-powered features (DaVinci Neural Engine) are paywalled in the "Studio" version.
+  - **Tags:** `video-editing`, `vfx`, `audio-post`, `freemium`
 
 ## ✍️ Text & Language
 
 *Tools for writing, editing, translation, and conversational AI.*
 
-- [**Clair**](https://askclair.ai/) - An AI clinical reference tool that provides clinicians with accurate, referenced answers from medical sources.
-  - **Free Tier Details:** The free plan is for students (requires yearly verification) and includes full access to the Starter Plan features (proprietary AI modeling, search suite, saved searches) and the Clair Mobile App.
-  - **Tags:** `medical`, `research`, `reference-tool`, `student-plan`
-- [**ElevateAI**](https://www.elevateai.com/) - An AI platform providing transcription and generative AI features for contact center speech analytics.
-  - **Free Tier Details:** The free program provides 1,000 free transcripts daily, plus free access to generative AI features like AutoSummary, Agent Coaching, and Q&A.
-  - **Tags:** `speech-to-text`, `transcription`, `api`, `freemium`
-- [**Localit**](https://localit.io/) - A translation management system (TMS) for localizing websites, mobile apps, and other software content.
-  - **Free Tier Details:** The free plan includes 2 users, 500 translation keys across all projects, and 100 MB of storage.
-  - **Tags:** `translation`, `localization`, `i18n`, `freemium`
-- [**PostPulse**](https://postpulseai.com/) - An AI tool that crafts and publishes posts on branded domains to boost a startup's online presence.
-  - **Free Tier Details:** The free plan allows for 1 AI-crafted post per month on a branded domain.
-  - **Tags:** `content-creation`, `seo`, `marketing`, `freemium`
+- [**Rytr.me**](https://rytr.me/) - An AI writing assistant for generating content for various use cases like blogs, emails, and social media.
+  - **Free Tier Details:** Offers a permanent free plan with a recurring monthly character generation limit.
+  - **Tags:** `writing-assistant`, `content-creation`, `freemium`
+
+## 🤖 Conversational & Social AI
+
+*Chatbots, social media bots, and platforms for creating custom AI characters.*
+
+- [**ChatGPT**](https://chat.openai.com/) - A conversational AI for answering questions, writing text, and brainstorming ideas.
+  - **Free Tier Details:** Offers a permanent free tier with rate-limited access to current-generation models.
+  - **Tags:** `chatbot`, `conversational-ai`, `freemium`
+- [**Claude.ai**](https://claude.ai/) - A conversational AI focused on helpful, harmless, and honest interactions.
+  - **Free Tier Details:** Offers a permanent free tier with rate-limited access to current-generation models.
+  - **Tags:** `chatbot`, `conversational-ai`, `freemium`
+- [**DeepSeek**](https://www.deepseek.com/) - A platform providing access to the DeepSeek family of LLMs through a web chat interface.
+  - **Free Tier Details:** Offers a free-to-use web chat interface with access to its current-generation models, subject to rate limits.
+  - **Tags:** `chatbot`, `llm`, `research`
+- [**Gemini**](https://gemini.google.com/) - Google's multimodal AI for conversation, analysis, and content generation.
+  - **Free Tier Details:** Offers a permanent free tier with access to current-generation models like Gemini 2.5.
+  - **Tags:** `chatbot`, `multimodal`, `google-ai`
+- [**Meta.ai**](https://www.meta.ai/) - A free web-based AI assistant with access to Meta's current-generation models.
+  - **Free Tier Details:** Free to use, providing access to current models for conversation and image generation.
+  - **Tags:** `chatbot`, `image-generation`, `meta-ai`, `free`
+- [**Mistral Le Chat**](https://chat.mistral.ai/) - A conversational AI assistant providing access to Mistral's language models.
+  - **Free Tier Details:** Offers a free tier with access to current-generation models, with daily message caps.
+  - **Tags:** `chatbot`, `llm`, `mistral-ai`, `freemium`
+- [**Perplexity**](https://www.perplexity.ai/) - An AI-powered answer engine that provides direct, cited answers to questions.
+  - **Free Tier Details:** Offers a permanent free tier with access to current-generation models for search and conversation.
+  - **Tags:** `answer-engine`, `research`, `citations`, `freemium`
+- [**Poe**](https://poe.com/) - An aggregator platform for accessing multiple AI models and creating custom bots.
+  - **Free Tier Details:** Offers a permanent free tier with rate-limited access to multiple current-generation models.
+  - **Tags:** `chatbot-aggregator`, `multi-model`, `freemium`
 
 ## 💻 Code, Testing & Security
 
 *AI-powered tools to assist with coding, testing, and security analysis.*
 
-- [**Cypress Cloud**](https://cypress.preflight.com/) - A SaaS web app that pairs with the open-source Cypress test runner to scale and debug tests.
-  - **Free Tier Details:** The free plan includes 500 test results per month, up to 50 users, test parallelization, and test replay features.
-  - **Tags:** `testing`, `automation`, `developer-tool`, `freemium`
-- [**ForgeCode**](https://forgecode.dev/) - A lightweight, non-intrusive AI pair programmer that operates within the user's terminal.
-  - **Free Tier Details:** The free plan has a dynamic request limit (typically 10-50/month) for its provided models but allows for unlimited requests when the user provides their own API key (BYOK).
-  - **Tags:** `ai-assistant`, `terminal`, `developer-tool`, `byok`, `freemium`
-- [**JSON Swiss**](https://www.jsonswiss.com/) - A free online utility to convert, format, validate, and otherwise manipulate JSON data for development purposes.
-  - **Free Tier Details:** The entire tool is free. It offers various JSON manipulation functions like conversion to CSV, formatting, and validation.
-  - **Tags:** `json`, `utility`, `developer-tool`, `free`
-- [**Octomind**](https://www.octomind.dev/) - An AI-powered test automation platform that generates, runs, and maintains end-to-end tests for web applications.
-  - **Free Tier Details:** The free tier includes up to 10 test cases, 50 test runs per month, 1 parallel execution, 2 projects/URLs, and 2 team members.
-  - **Tags:** `testing`, `automation`, `no-code`, `freemium`
-- [**PageTools**](https://pagetools.co/) - A collection of free, single-purpose web utilities for developers and content creators.
-  - **Free Tier Details:** The entire suite is free. Tools include an HTML minifier, CSS beautifier, JavaScript deobfuscator, image converters, and more.
-  - **Tags:** `utility`, `developer-tool`, `free`, `web-dev`
-- [**PullFlow**](https://pullflow.com/) - A code review collaboration platform that integrates with GitHub, Slack, and VS Code to accelerate review cycles.
-  - **Free Tier Details:** The free plan includes unlimited public repositories, unlimited public users, unlimited private repositories, and up to 5 users for private repositories.
-  - **Tags:** `code-review`, `github`, `developer-tool`, `collaboration`, `freemium`
-- [**Repeato**](https://repeato.app/) - A no-code test automation tool for creating and running UI tests on mobile (iOS/Android) and web applications.
-  - **Free Tier Details:** The free plan includes unlimited testing minutes, 5 tests each for Android, iOS, and Web, 20 AI vision assertions per month, and 20MB of cloud storage.
-  - **Tags:** `testing`, `no-code`, `mobile-testing`, `freemium`
-- [**Snyk**](https://www.deepcode.ai/) - A developer security platform that helps find and fix vulnerabilities in code, open source dependencies, and containers.
-  - **Free Tier Details:** The free plan includes 200 open source (SCA) tests/month, 100 code (SAST) tests/month, 300 IaC tests/month, and 100 container tests/month for unlimited contributing developers.
-  - **Tags:** `security`, `devsecops`, `developer-tool`, `freemium`
-- [**Supermaven**](https://www.supermaven.com/) - An AI code completion tool designed to provide fast, context-aware suggestions to accelerate software development.
-  - **Free Tier Details:** The Free tier is $0/month and provides fast, high-quality code suggestions for large codebases. Limitations include a 7-day data retention limit and the absence of pro features like style adaptation and the most intelligent model.
-  - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`
-- [**WebDB**](https://webdb.app/) - An open-source, efficient Integrated Development Environment (IDE) for databases.
-  - **Free Tier Details:** The tool is open-source and can be self-hosted for free.
-  - **Tags:** `database`, `ide`, `developer-tool`, `open-source`
-- [**What The Diff**](https://whatthediff.ai/) - An AI-powered code review assistant that automatically explains pull requests and helps refactor code.
-  - **Free Tier Details:** The free plan includes 25,000 tokens per month (approx. 10 pull requests), unlimited repositories, and inline code refactoring.
-  - **Tags:** `code-review`, `github`, `developer-tool`, `freemium`
-- [**YourGPT CSV to JSON Converter**](https://yourgpt.ai/tools/csv-to-json) - A free online utility that converts data from CSV (Comma-Separated Values) format to JSON format.
-  - **Free Tier Details:** The entire tool is free to use for converting CSV files or pasted content into JSON.
-  - **Tags:** `csv`, `json`, `converter`, `utility`, `free`
-- [**Zenable**](https://zenable.io/) - An AI coding guardrail platform that enforces best practices and requirements during software development.
-  - **Free Tier Details:** The free tier includes 25 pull request reviews per day and 100 premium MCP tool calls per day for use in AI IDEs.
-  - **Tags:** `code-quality`, `guardrails`, `developer-tool`, `freemium`
+- [**AWS CodeWhisperer**](https://aws.amazon.com/codewhisperer/) - A real-time AI coding companion that generates code suggestions directly in the IDE.
+  - **Free Tier Details:** Offers a permanent and generous "Individual Tier" that is free for all developers, including security scans (500/month).
+  - **Tags:** `code-completion`, `ai-assistant`, `security`, `freemium`
+- [**Codacy**](https://www.codacy.com/) - An automated code review tool that helps developers ship better software by analyzing code quality.
+  - **Free Tier Details:** Offers a permanent and unlimited free tier specifically for open-source projects.
+  - **Tags:** `code-review`, `code-quality`, `open-source`, `freemium`
+- [**Continue.dev**](https://www.continue.dev/) - An open-source, model-agnostic code assistant that runs in your IDE.
+  - **Free Tier Details:** Free and open-source software (Apache 2.0 license). Relies on user-provided API keys (BYOK) for LLM access.
+  - **Tags:** `ai-assistant`, `ide-plugin`, `open-source`, `byok`
+- [**Cursor**](https://cursor.sh/) - An AI-first code editor designed for pair-programming with an AI.
+  - **Free Tier Details:** Offers a permanent free tier with a recurring monthly allowance of "slow" and "fast" AI requests.
+  - **Tags:** `code-editor`, `ai-assistant`, `freemium`
+- [**Hotpot.ai**](https://www.toolsforhumans.ai/ai-tools/hotpot-ai) - A collection of AI tools for graphics, images, and text.
+  - **Free Tier Details:** Offers a free tier with rate-limited access to its various AI tools for creative tasks.
+  - **Tags:** `graphics`, `writing`, `image-editing`, `freemium`
+- [**Pieces.app**](https://pieces.app/) - A workflow copilot for developers that helps manage and reuse code snippets and other resources.
+  - **Free Tier Details:** Offers a permanent free plan with core local AI features for managing snippets and workflow intelligence.
+  - **Tags:** `code-snippets`, `developer-tool`, `workflow`, `local-ai`
+- [**Pullflow**](https://pullflow.com/) - A code review collaboration platform that integrates with GitHub, Slack, and VS Code.
+  - **Free Tier Details:** Offers a permanent free tier for open-source projects and for private teams of up to 5 users.
+  - **Tags:** `code-review`, `collaboration`, `github`, `freemium`
+- [**Snyk**](https://snyk.io/) - A developer security platform to find and fix vulnerabilities in code and dependencies.
+  - **Free Tier Details:** Offers a permanent free tier for developers with a limited number of recurring monthly tests for code, dependencies, and containers.
+  - **Tags:** `security`, `vulnerability-scanning`, `devsecops`, `freemium`
+- [**Tesseract.js**](https://tesseract.projectnaptha.com/) - A JavaScript library that gets words in almost any language out of images.
+  - **Free Tier Details:** Free and open-source software (Apache 2.0 license) for optical character recognition (OCR).
+  - **Tags:** `ocr`, `javascript`, `library`, `open-source`
+- [**Trivy**](https://trivy.dev/) - A comprehensive and easy-to-use vulnerability scanner for containers and other artifacts.
+  - **Free Tier Details:** Free and open-source software (Apache 2.0 license).
+  - **Tags:** `security`, `vulnerability-scanning`, `open-source`, `devsecops`
+- [**VLLM**](https://vllm.ai/) - A fast and easy-to-use library for LLM inference and serving.
+  - **Free Tier Details:** Free and open-source software (Apache 2.0 license).
+  - **Tags:** `llm-inference`, `serving`, `open-source`, `library`
+- [**whatthediff.ai**](https://whatthediff.ai/) - An AI-powered code review assistant that explains pull requests.
+  - **Free Tier Details:** Offers a permanent free tier for public repositories on GitHub.
+  - **Tags:** `code-review`, `github`, `ai-assistant`, `freemium`
+- [**WolframAlpha**](https://www.wolframalpha.com/) - A computational knowledge engine and answer engine.
+  - **Free Tier Details:** Offers a permanent free tier with access to its computational knowledge engine for a wide range of queries.
+  - **Tags:** `computational-engine`, `knowledge-base`, `education`, `freemium`
 
 ## 🚀 Infrastructure & APIs
 
 *Platforms providing access to AI models, databases, and other core infrastructure.*
 
-- [**BrowserCat**](https://www.browsercat.com/) - A headless browser automation API for testing, scraping, and generating web content without managing infrastructure.
-  - **Free Tier Details:** The "Hobby" plan provides 1,000 credits per month at $0/month. It supports Playwright, Puppeteer, & CDP, with 1,000 concurrent requests.
-  - **Tags:** `api`, `headless-browser`, `web-scraping`, `developer-tool`, `freemium`
-- [**Clarifai**](https://www.clarifai.com/) - An AI platform for building, deploying, and scaling AI models and agents with a focus on low latency.
-  - **Free Tier Details:** The "Community" plan is $0/month and includes up to 1,000 API calls per month, access to serverless pre-trained models, and 1 request/second rate limit.
-  - **Tags:** `ai-platform`, `api`, `mlops`, `image-recognition`, `freemium`
-- [**Composio**](https://composio.dev/) - An integration platform that connects AI agents and LLMs to thousands of real-world tools and APIs.
-  - **Free Tier Details:** The free plan provides 20,000 tool calls per month and community support.
-  - **Tags:** `api`, `agents`, `llm`, `developer-tool`, `freemium`
-- [**Couchbase Capella**](https://www.couchbase.com/products/capella/) - A fully managed Database-as-a-Service (DBaaS) for building modern, data-driven applications.
-  - **Free Tier Details:** The free plan includes a 1-node, 8 GB cluster with access to SQL++, Key-Value, Search (Vector, FTS, GEO), Mobile App Services, and RBAC features.
-  - **Tags:** `database`, `dbaas`, `nosql`, `freemium`
-- [**Portkey**](https://portkey.ai/) - An AI gateway and observability platform for teams to manage, monitor, and scale their LLM applications.
-  - **Free Tier Details:** The free plan includes 10,000 recorded logs per month, AI gateway features (fallbacks, retries), observability, and up to 3 prompt templates.
-  - **Tags:** `llm-gateway`, `observability`, `api`, `developer-tool`, `freemium`
-- [**Tavily AI**](https://tavily.com/) - A search API designed for LLMs and AI agents, providing real-time, accurate, and reliable web data.
-  - **Free Tier Details:** The free "Researcher" plan includes 1,000 API credits per month and email support, with no credit card required to start.
-  - **Tags:** `search-api`, `api`, `llm`, `developer-tool`, `freemium`
-- [**WebScraping.AI**](https://webscraping.ai/) - An AI-powered web scraping API that handles browsers, proxies, and CAPTCHAs to return structured data.
-  - **Free Tier Details:** The free account includes 2,000 API credits per month and allows for a maximum of 2 concurrent connections.
-  - **Tags:** `web-scraping`, `api`, `developer-tool`, `freemium`
+- [**Activepieces**](https://www.activepieces.com/) - An open-source business automation tool, similar to Zapier.
+  - **Free Tier Details:** The self-hosted Community Edition is open-source (MIT license) and offers unlimited use. **Note:** Advanced AI and cloud features are part of the paid version.
+  - **Tags:** `automation`, `workflow`, `open-source`, `self-hosted`
+- [**Arize AI**](https://arize.com/) - An AI observability and ML monitoring platform for troubleshooting and evaluating AI systems.
+  - **Free Tier Details:** Offers a free, open-source, self-hosted version ("Phoenix") and a SaaS plan ("AX Free") with a recurring monthly limit of 25k trace spans for 1 user.
+  - **Tags:** `mlops`, `observability`, `llm-evaluation`, `open-source`, `freemium`
+- [**Azure Al Speech**](https://azure.microsoft.com/en-us/products/ai-services/ai-speech) - A service that unifies speech-to-text, text-to-speech, and speech translation.
+  - **Free Tier Details:** Offers a permanent "Free (F0)" tier with recurring monthly allowances (e.g., 5 audio hours of speech-to-text).
+  - **Tags:** `speech-to-text`, `text-to-speech`, `api`, `freemium`
+- [**Google Cloud Speech-to-Text**](https://cloud.google.com/speech-to-text/) - An API that enables developers to convert audio to text by applying neural network models.
+  - **Free Tier Details:** Offers a permanent free tier that includes 60 minutes of audio to be processed per month, which replenishes.
+  - **Tags:** `speech-to-text`, `transcription`, `api`, `freemium`
+- [**Google Cloud Vision API**](https://cloud.google.com/vision/) - An API that enables developers to understand the content of an image using ML models.
+  - **Free Tier Details:** Provides a permanent free tier that allows for the processing of 1,000 units per feature per month, which replenishes.
+  - **Tags:** `computer-vision`, `image-analysis`, `api`, `freemium`
+- [**Google Gemini API**](https://ai.google.dev/gemini-api) - Provides API access to Google's current-generation Gemini family of models.
+  - **Free Tier Details:** Offers a permanent, rate-limited free tier. **Note:** User data from the free tier is used to improve Google products and has geographic restrictions for commercial use.
+  - **Tags:** `llm-api`, `multimodal`, `google-ai`, `freemium`
+- [**Hugging Face**](https://huggingface.co/) - The leading open platform for the AI community, providing tools to build, train, and deploy models.
+  - **Free Tier Details:** The core platform is free, offering access to thousands of models, datasets, and limited free compute for hosting demos ("Spaces").
+  - **Tags:** `model-hub`, `datasets`, `open-source`, `community`
+- [**LocalAI.io**](https://localai.io/) - A free, open-source, and self-hostable substitute for OpenAI, running on consumer-grade hardware.
+  - **Free Tier Details:** Free and open-source software (MIT license) that acts as a local-first OpenAI alternative.
+  - **Tags:** `local-llm`, `openai-alternative`, `self-hosted`, `open-source`
+- [**Modal.com**](https://modal.com/) - A serverless platform for running generative AI models, large-scale batch jobs, and more.
+  - **Free Tier Details:** Offers a permanent 'Starter' plan with a recurring monthly allowance of $30 in free compute credits.
+  - **Tags:** `serverless`, `gpu-hosting`, `ml-infra`, `freemium`
+- [**n8n.io**](https://n8n.io/) - A workflow automation tool to connect different apps and services.
+  - **Free Tier Details:** The self-hosted Community Edition is open-source and offers unlimited use. **Note:** The cloud version does not have a compliant permanent free tier.
+  - **Tags:** `workflow-automation`, `open-source`, `self-hosted`
+- [**Ollama**](https://ollama.com/) - A tool for running large language models, like Llama 3, locally on your own computer.
+  - **Free Tier Details:** Free and open-source software (MIT license).
+  - **Tags:** `local-llm`, `run-models`, `open-source`, `desktop-app`
+- [**OpenWebUI**](https://openwebui.com/) - A user-friendly web UI for running and interacting with local LLMs.
+  - **Free Tier Details:** Free and open-source software (BSD-3-Clause license with branding restrictions).
+  - **Tags:** `llm-ui`, `local-llm`, `open-source`
+- [**Paperspace**](https://www.paperspace.com/) - A cloud platform providing access to GPUs and MLOps infrastructure.
+  - **Free Tier Details:** Offers a permanent free tier with access to free GPU and CPU instances, suitable for individual projects and learning.
+  - **Tags:** `gpu-cloud`, `mlops`, `notebooks`, `freemium`
+- [**Pipedream**](https://pipedream.com/) - An integration platform for developers to build and run workflows.
+  - **Free Tier Details:** Offers a permanent free tier with a recurring daily allowance of credits for running workflows.
+  - **Tags:** `workflow-automation`, `serverless`, `api-integration`, `freemium`
+- [**Replit**](https://replit.com/) - An online IDE with AI features for coding, deploying, and hosting apps.
+  - **Free Tier Details:** Offers a permanent 'Starter' free tier with access to a basic workspace, hosting, and a trial of its AI features.
+  - **Tags:** `online-ide`, `ai-assistant`, `hosting`, `freemium`
+- [**Streamlit**](https://streamlit.io/) - An open-source Python library that makes it easy to create and share custom web apps for machine learning and data science.
+  - **Free Tier Details:** Free and open-source software (Apache 2.0 license).
+  - **Tags:** `python`, `data-apps`, `web-framework`, `open-source`
+- [**Whisper**](https://github.com/openai/whisper) - An open-source automatic speech recognition (ASR) model for transcribing and translating audio.
+  - **Free Tier Details:** Free and open-source model (MIT License) that can be run locally for unlimited use.
+  - **Tags:** `speech-recognition`, `transcription`, `open-source`, `model`
 
 ## 📊 Data, Observability & Analysis
 
 *Tools for MLOps, observability, evaluation, web scraping, and user feedback analysis.*
 
-- [**Arize**](https://arize.com/) - An AI and agent engineering platform for model observability, evaluation, and troubleshooting in production environments.
-  - **Free Tier Details:** The "AX Free" SaaS plan includes 1 user, 25,000 trace spans/month, 1 GB storage, and 7-day data retention. The "Phoenix" plan is open-source, self-hosted, and supports unlimited users and user-managed resources.
-  - **Tags:** `mlops`, `observability`, `developer-tool`, `freemium`, `open-source`
-- [**Braintrust**](https://www.braintrustdata.com/) - An evaluation and observability platform for building and improving AI and LLM-powered applications.
-  - **Free Tier Details:** The free plan includes 1 million trace spans per month, 1 GB of processed data, 10,000 scores/metrics, 14-day data retention, and unlimited users.
-  - **Tags:** `llm`, `evaluation`, `observability`, `developer-tool`, `freemium`
-- [**Browse AI**](https://www.browse.ai/) - An AI-powered web scraping and automation tool that extracts and monitors data from any website without code.
-  - **Free Tier Details:** The free plan includes 50 credits per month, unlimited robots, monitoring for 2 websites, and access for 3 users.
-  - **Tags:** `web-scraping`, `automation`, `no-code`, `freemium`
-- [**Comet Opik**](https://www.comet.com/site/products/opik/) - An open-source LLM evaluation platform for tracking, testing, and shipping LLM applications and RAG systems.
-  - **Free Tier Details:** The free hosted plan includes 25,000 spans per month, 60-day data retention, and unlimited team members. The full feature set is also available via open source for self-hosting.
-  - **Tags:** `llm`, `evaluation`, `mlops`, `open-source`, `freemium`
-- [**Efemarai**](https://efemarai.com/) - A platform for ML teams to continuously test models for edge cases, helping to build more robust AI.
-  - **Free Tier Details:** The free "COMMUNITY" plan includes local use, access to the CI platform, stress testing, and allows for up to 5 models and 20,000 data samples.
-  - **Tags:** `ml-testing`, `robustness`, `developer-tool`, `freemium`
-- [**Keywords AI**](https://keywordsai.co/) - A unified LLM monitoring and developer platform for building, deploying, and observing AI applications.
-  - **Free Tier Details:** The free plan includes 2,000 logs per month, 2 user seats, 2 prompts, and community support.
-  - **Tags:** `llm`, `observability`, `monitoring`, `developer-tool`, `freemium`
-- [**Langfuse**](https://langfuse.com/) - An open-source LLM engineering platform for tracing, evals, prompt management, and metrics.
-  - **Free Tier Details:** The free "Hobby" plan includes 50,000 units per month, 30-day data access, and support for up to 2 users. The open-source version is unlimited.
-  - **Tags:** `llm`, `observability`, `open-source`, `developer-tool`, `freemium`
-- [**Langtrace**](https://langtrace.ai/) - An open-source observability and evaluations platform for building enterprise-grade AI agents and applications.
-  - **Free Tier Details:** The hosted free plan includes up to 5,000 spans per month for 1 user. The self-hosted version has no limits other than the user's own infrastructure.
-  - **Tags:** `observability`, `llm`, `developer-tool`, `open-source`, `freemium`
-- [**LangWatch**](https://langwatch.ai/) - An LLM observability platform for monitoring, debugging, and evaluating AI applications in production.
-  - **Free Tier Details:** The "Hobby" plan includes 1,000 events per month, 7-day data retention, and 1 user seat.
-  - **Tags:** `llm`, `observability`, `monitoring`, `freemium`
-- [**Maxim**](https://getmaxim.ai/) - An end-to-end evaluation and observability platform for building and shipping reliable AI agents faster.
-  - **Free Tier Details:** The free plan includes up to 10,000 requests (logs & traces) per month and supports up to 3 user seats.
-  - **Tags:** `llm`, `observability`, `evaluation`, `developer-tool`, `freemium`
-- [**NextBillion.ai Free Tools**](https://nextbillion.ai/) - A suite of free online geospatial and developer tools for routing, mapping, and data conversion.
-  - **Free Tier Details:** The offering consists of several completely free tools, including a Route Planner App, GeoJSON Editor, Distance Matrix Calculator, Polyline Encoder/Decoder, and a CSV to Shapefile Converter.
-  - **Tags:** `mapping`, `geospatial`, `utility`, `developer-tool`, `free`
-- [**Parseur**](https://parseur.com/) - An AI-powered document parser that automates text extraction from emails, PDFs, and other documents.
-  - **Free Tier Details:** The free plan allows for processing up to 20 pages per month, includes unlimited mailboxes and extracted fields, and has a 90-day data retention period.
-  - **Tags:** `document-parser`, `ocr`, `automation`, `freemium`
-- [**PromptLoop**](https://www.promptloop.com/) - An AI data platform for automated B2B research and go-to-market data generation in spreadsheets.
-  - **Free Tier Details:** The free plan includes two "Agents," unlimited edits, and access to the Google Sheets and Microsoft Excel plugins, subject to daily usage and rate limits.
-  - **Tags:** `spreadsheet`, `data-enrichment`, `lead-generation`, `freemium`
+- [**Braintrust Data**](https://www.braintrustdata.com/) - An evaluation and observability platform for large language models (LLMs) and AI applications.
+  - **Free Tier Details:** Offers a permanent free tier with a generous recurring monthly limit of 1 million trace spans and unlimited users.
+  - **Tags:** `llm-evaluation`, `observability`, `mlops`, `freemium`
+- [**Browse.ai**](https://www.browse.ai/) - A no-code AI tool for extracting and monitoring data from any website.
+  - **Free Tier Details:** Provides a "Free Forever" plan that includes 50 recurring monthly credits.
+  - **Tags:** `web-scraping`, `data-extraction`, `no-code`, `freemium`
+- [**Comet ML**](https://www.comet.com/site/products/opik/) - An MLOps platform for tracking, comparing, and optimizing machine learning models.
+  - **Free Tier Details:** Offers a permanent free tier with a recurring monthly allowance of 25,000 spans and unlimited team members.
+  - **Tags:** `mlops`, `llm-tracing`, `experiment-tracking`, `freemium`
+- [**Deepnote**](https://deepnote.com/) - A collaborative data science notebook compatible with Jupyter.
+  - **Free Tier Details:** Offers a permanent "Free" plan that includes up to 3 editors and 5 projects, with integrated AI assistance.
+  - **Tags:** `data-science`, `notebooks`, `collaboration`, `freemium`
+- [**Docparser**](https://docparser.com/) - An automated document data extraction tool that pulls data from PDFs, Word documents, and images.
+  - **Free Tier Details:** Offers a "forever free plan" which includes 100 recurring monthly credits.
+  - **Tags:** `data-extraction`, `ocr`, `pdf-parser`, `freemium`
+- [**Efemarai**](https://efemarai.com/) - A platform for testing, debugging, and improving machine learning models by identifying edge cases.
+  - **Free Tier Details:** Offers a permanent "Community" free tier that allows for local use and testing of up to 5 models and 20,000 samples.
+  - **Tags:** `ml-testing`, `model-robustness`, `developer-tool`, `freemium`
+- [**GetMaxim.ai**](https://getmaxim.ai/) - An end-to-end platform for simulating, evaluating, and monitoring AI agents.
+  - **Free Tier Details:** Offers a "Developer" plan that is "Free Forever" for up to 3 seats, including a recurring allowance of 10,000 logs and traces per month.
+  - **Tags:** `llm-evaluation`, `observability`, `agent-testing`, `freemium`
+- [**Glideapps**](https://www.glideapps.com/) - A no-code platform for building custom web and mobile applications from data sources.
+  - **Free Tier Details:** Offers a permanent "Free" plan that allows users to build one app with limits on users and data rows. Includes access to "Glide AI".
+  - **Tags:** `no-code`, `app-builder`, `data-visualization`, `freemium`
+- [**Keywords AI**](https://keywordsai.co/) - An LLM monitoring and evaluation platform designed for AI startups and developers.
+  - **Free Tier Details:** Offers a "Free forever" plan that includes a recurring allowance of 2,000 logs per month for up to 2 users.
+  - **Tags:** `llm-monitoring`, `observability`, `freemium`
+- [**Langfuse**](https://langfuse.com/) - An open-source observability and analytics platform for LLM applications.
+  - **Free Tier Details:** Offers two free options: a fully open-source, self-hostable version, and a "Hobby" cloud plan with a recurring monthly allowance of 50,000 units.
+  - **Tags:** `llm-observability`, `analytics`, `open-source`, `freemium`
+- [**Langtrace.ai**](https://langtrace.ai/) - An open-source observability platform for LLM-powered applications.
+  - **Free Tier Details:** Offers both a free, self-hostable open-source version and a "Free Forever" cloud plan with a recurring allowance of 5,000 spans per month.
+  - **Tags:** `llm-observability`, `tracing`, `open-source`, `freemium`
+- [**LangWatch.ai**](https://langwatch.ai/) - An LLM monitoring and evaluation platform for tracking performance, cost, and quality.
+  - **Free Tier Details:** Offers a permanent "Developer" free tier that includes a recurring allowance of 1,000 traces per month for up to 2 users.
+  - **Tags:** `llm-monitoring`, `evaluation`, `freemium`
+- [**PromptLoop**](https://www.promptloop.com/) - An AI data platform for automated research and data generation in spreadsheets.
+  - **Free Tier Details:** Offers a permanent free tier with limited daily use and access to Google Sheets and Excel plugins.
+  - **Tags:** `spreadsheet`, `data-enrichment`, `automation`, `freemium`
 - [**Sprig**](https://sprig.com/) - A user research platform that captures user feedback and uses AI to surface actionable product insights.
-  - **Free Tier Details:** The free plan includes monthly: 25 survey responses, 50 replay clips, 100 heatmap captures, 10 feedback responses, and up to 5,000 Monthly Unique Users (MUUs).
-  - **Tags:** `user-research`, `feedback`, `survey`, `freemium`
+  - **Free Tier Details:** Offers a permanent free plan with recurring monthly limits for surveys, session replays, and heatmap captures.
+  - **Tags:** `user-research`, `product-feedback`, `survey`, `freemium`
 - [**Survicate**](https://survicate.com/) - An all-in-one customer feedback platform for collecting and analyzing insights through multi-channel surveys.
-  - **Free Tier Details:** The free plan includes 25 survey responses per month, 1 active survey, unlimited questions per survey, and 3 user seats.
-  - **Tags:** `survey`, `feedback`, `customer-experience`, `freemium`
+  - **Free Tier Details:** Offers a permanent free plan with a recurring monthly limit of 25 survey responses.
+  - **Tags:** `customer-feedback`, `survey`, `freemium`
 
 ## 📈 Productivity & Automation
 
 *Tools that use AI to automate tasks, manage workflows, and improve productivity.*
 
-- [**Degoo**](https://degoo.com/) - An AI-based cloud storage service for securely storing and sharing photos and files.
-  - **Free Tier Details:** The free plan includes 20 GB of cloud storage, support for 3 upload devices, web app access, and basic storage replication. The account is deactivated after 90 days of inactivity.
-  - **Tags:** `cloud-storage`, `backup`, `freemium`
-- [**forms.app**](https://forms.app/) - An online tool for creating forms, surveys, and quizzes to collect data and engage audiences.
-  - **Free Tier Details:** The free plan allows for up to 5 forms, 100 responses per month, and unlimited form views.
+- [**Fathom.video**](https://fathom.video/) - An AI meeting assistant that records, transcribes, and summarizes video calls.
+  - **Free Tier Details:** Offers a "Forever Free" plan that is exceptionally generous, providing unlimited meeting transcripts, recordings, and basic AI summaries.
+  - **Tags:** `meeting-assistant`, `transcription`, `summarization`, `freemium`
+- [**Forms.app**](https://forms.app/) - An online form builder that allows users to create forms, surveys, and quizzes.
+  - **Free Tier Details:** Offers a "Free forever" plan with recurring monthly limits (5 forms, 100 responses).
   - **Tags:** `forms`, `survey`, `no-code`, `freemium`
-- [**Leiga**](https://www.leiga.com/) - An AI-powered project management tool designed for technical product and project management.
-  - **Free Tier Details:** The free "Startup Plan" includes up to 10 users, 2 GB storage, 100,000 automation runs/month, and 20 AI credits per user/month.
-  - **Tags:** `project-management`, `agile`, `collaboration`, `freemium`
-- [**lil'bots**](https://www.lilbots.io/) - An AI-powered platform for creating, deploying, and sharing AI-powered scripts in JavaScript or Python.
-  - **Free Tier Details:** The free plan is $0/month and includes 3,600 seconds of execution credits per month and the ability to create unlimited bots.
+- [**Grain.com**](https://grain.com/) - An AI-powered meeting recording and transcription tool that creates summaries and notes.
+  - **Free Tier Details:** Offers a permanent free plan that allows for up to 20 recorded meetings and includes basic AI notes and transcription.
+  - **Tags:** `meeting-assistant`, `transcription`, `freemium`
+- [**Grammarly**](https://www.grammarly.com/) - An AI-powered writing assistant that checks grammar, spelling, clarity, and tone.
+  - **Free Tier Details:** Has a permanent free tier providing core grammar checks and a recurring monthly limit of 100 generative AI prompts.
+  - **Tags:** `writing-assistant`, `grammar-checker`, `freemium`
+- [**Lilbots.io**](https://www.lilbots.io/) - A platform for creating, deploying, and sharing AI-powered scripts in JavaScript or Python.
+  - **Free Tier Details:** Offers a permanent free plan with a recurring monthly allowance of execution credits.
   - **Tags:** `automation`, `scripting`, `serverless`, `freemium`
-- [**NameKit**](https://namekit.app/) - An AI-powered domain name generator that helps users discover available and creative domain names without premium markups.
-  - **Free Tier Details:** The free plan offers limited daily AI searches, access to popular TLDs only, and randomly filtered results.
-  - **Tags:** `domain-generator`, `startup-tool`, `freemium`
-- [**Tara.AI**](https://tara.ai/) - A product delivery platform for engineering teams to manage sprints, tasks, and progress tied to source control.
-  - **Free Tier Details:** The free plan includes unlimited users in 1 team, unlimited tasks and requirements, and allows for 2 synced repos with 100 open synced issues each.
-  - **Tags:** `project-management`, `developer-tool`, `agile`, `freemium`
+- [**Mailmeteor**](https://mailmeteor.com/) - An email marketing platform with AI features for writing emails.
+  - **Free Tier Details:** Offers a permanent free tier with a recurring monthly limit of 50 emails.
+  - **Tags:** `email-marketing`, `ai-writer`, `freemium`
+- [**Make.com**](https://www.make.com/) - A visual workflow automation platform to connect apps and services.
+  - **Free Tier Details:** Offers a permanent free tier with a recurring monthly allowance of 1,000 operations.
+  - **Tags:** `workflow-automation`, `no-code`, `integration`, `freemium`
+- [**Otter.ai**](https://otter.ai/) - An AI-powered service for real-time transcription of meetings and conversations.
+  - **Free Tier Details:** Offers a permanent 'Basic' free tier with a recurring monthly allowance of transcription minutes.
+  - **Tags:** `transcription`, `meeting-assistant`, `notes`, `freemium`
+- [**Zapier**](https://zapier.com/) - An online automation tool that connects your favorite apps, such as Gmail, Slack, and more.
+  - **Free Tier Details:** Offers a permanent free tier with a recurring monthly allowance of 100 tasks.
+  - **Tags:** `workflow-automation`, `integration`, `no-code`, `freemium`
 
 ---
 
