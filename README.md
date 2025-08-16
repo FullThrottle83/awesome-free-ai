@@ -1,5 +1,8 @@
-# Awesome Free AI 🤖 
+# Awesome Free AI 🤖
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![GitHub Stars](https://img.shields.io/github/stars/FullThrottle83/awesome-free-ai.svg?style=social)](https://github.com/FullThrottle83/awesome-free-ai/stargazers)
+[![Lint Status](https://github.com/FullThrottle83/awesome-free-ai/actions/workflows/main.yml/badge.svg)](https://github.com/FullThrottle83/awesome-free-ai/actions)
 
 A curated list of rigorously vetted AI tools, services, and resources with generous, permanent free tiers suitable for professional use. Every tool is verified to provide significant, ongoing value without a time-limited trial.
 
@@ -458,7 +461,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 💸 [Make (Integromat)](https://www.make.com/) - A no-code workflow automation with AI.
   - **Free Tier Details:** 1,000 operations per month with a 15-minute interval.
   - **Tags:** `workflow-automation`, `no-code`, `ai-agents`, `freemium`
-- 🎁 [Microsoft Excel AI (Excel Online)](https://www.microsoft.com/en-us/microsoft-365/free-online-version-of-microsoft-excel) - An online spreadsheet with AI capabilities.
+- 🎁 [Microsoft Excel AI (Excel Online)](https://www.microsoft.com/en-us/microsoft-36s5/free-online-version-of-microsoft-excel) - An online spreadsheet with AI capabilities.
   - **Free Tier Details:** Excel Online is free. Includes "Analyze Data" (Ideas).
   - **Tags:** `spreadsheet`, `ai-features`, `productivity`, `free`
 - 💸 [Microsoft Power Automate](https://powerautomate.microsoft.com/) - A workflow automation for cloud flows.
@@ -513,8 +516,6 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** 100 tasks per month; supports 2-step Zaps. Includes Copilot AI builder.
   - **Tags:** `workflow-automation`, `productivity`, `no-code`, `freemium`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
-
 ---
 
 ## Why This List?
@@ -523,4 +524,4 @@ In a world of expensive AI subscriptions and misleading "free trials", this proj
 
 ## Contributing
 
-Contributions are welcome and encouraged! Please read the [**Contributing Guidelines**](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome and encouraged. Please read the [**Contributing Guidelines**](CONTRIBUTING.md) before submitting a pull request.
