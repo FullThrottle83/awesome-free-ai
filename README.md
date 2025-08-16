@@ -32,7 +32,7 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - [📊 Data, Observability & Analysis](#-data-observability--analysis)
 - [📈 Productivity & Automation](#-productivity--automation)
 
-**Legend:** 💿 **Open-Source** · 💸 **Freemium** · 🎁 **Free Service**
+**Legend:** 💿 **Open-Source** · 💸 **Freemium** · 🎁 **Free Service** · ⚠️ **Limited/Restricted AI**
 
 ---
 
@@ -46,18 +46,18 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - 💸 [**Artbreeder**](https://www.artbreeder.com/) - AI for image generation, mixing, and splicing.
   - **Free Tier Details:** Unlimited generations; 5 high-resolution downloads per month; 600 animation frames per month. Commercial use is permitted.
   - **Tags:** `image-generation`, `style-transfer`, `commercial-use`, `freemium`
-- 💸 [**Beautiful.ai**](https://www.beautiful.ai/) - AI-driven slide design and text-to-presentation.
-  - **Free Tier Details:** Free basic plan with templates; AI generation features are available in the Pro plan.
-  - **Tags:** `presentation-design`, `freemium`, `templates`
+- ⚠️ [**Beautiful.ai**](https://www.beautiful.ai/) - AI-driven slide design and text-to-presentation.
+  - **Free Tier Details:** Free basic plan with templates; **⚠️ AI generation features require Pro plan**.
+  - **Tags:** `presentation-design`, `freemium`, `templates`, `⚠️-ai-paywalled`
 - 💸 [**Canva AI (Magic Media)**](https://www.canva.com/ai-image-generator/) - AI-driven image, layout, and text generation integrated into editor.
   - **Free Tier Details:** Approximately 100 images per day for all accounts. Directly integrated into the Canva editor.
   - **Tags:** `image-generation`, `text-generation`, `layout-design`, `social-media`, `freemium`
 - 🎁 [**Craiyon**](https://www.craiyon.com/) - Unlimited image generation with attribution.
   - **Free Tier Details:** Unlimited image generation, supported by ads. Commercial use is permitted with attribution and a small watermark.
   - **Tags:** `image-generation`, `unlimited`, `commercial-use`, `ad-supported`, `free`
-- 💸 [**DeepArt.io**](https://deepart.io/) - AI-powered style transfer and artistic effects.
-  - **Free Tier Details:** Unlimited small images (up to 500x500 px) for style transfer. Free outputs are watermarked.
-  - **Tags:** `style-transfer`, `artistic-effects`, `freemium`, `watermarked`
+- ⚠️ [**DeepArt.io**](https://deepart.io/) - AI-powered style transfer and artistic effects.
+  - **Free Tier Details:** **⚠️ Limited demo credits only, no recurring free tier**.
+  - **Tags:** `style-transfer`, `artistic-effects`, `⚠️-demo-only`
 - 🎁 [**DeepAI**](https://deepai.org/) - Unlimited text-to-image generation.
   - **Free Tier Details:** Unlimited text-to-image generation with its own model. Provides full commercial rights for generated content.
   - **Tags:** `text-to-image`, `unlimited`, `commercial-use`, `free`
@@ -79,9 +79,9 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - 💸 [**Photosonic (Writesonic)**](https://writesonic.com/photosonic) - AI image generation integrated with text tools.
   - **Free Tier Details:** Approximately 10 images per day (associated with 10,000 words).
   - **Tags:** `image-generation`, `text-to-image`, `freemium`
-- 💸 [**Snappify**](https://snappify.com/) - A tool for developers to create visually stunning code presentations, videos, and infographics.
-  - **Free Tier Details:** The free plan includes storage for 3 "snaps," 5 slides per presentation (watermarked), and 50 API calls/month (watermarked).
-  - **Tags:** `code-snippet`, `presentation`, `developer-tool`, `freemium`
+- ⚠️ [**Snappify**](https://snappify.com/) - Developer tool for code presentations.
+  - **Free Tier Details:** **⚠️ AI features fully paywalled, basic features only in free tier**.
+  - **Tags:** `code-snippet`, `presentation`, `developer-tool`, `⚠️-ai-paywalled`
 - 💸 [**StarryAI**](https://starryai.com/) - AI art generation with mobile apps.
   - **Free Tier Details:** 5 credits per day. Offers mobile applications and seamless pattern generation. Provides clear commercial rights.
   - **Tags:** `image-generation`, `mobile-app`, `commercial-use`, `freemium`
@@ -95,6 +95,9 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 
 *Tools for generating music, voice, and other audio content.*
 
+- 💸 [**Suno AI**](https://suno.ai/) - AI music generation with commercial rights.
+  - **Free Tier Details:** Daily credits for music generation, monthly top-up. Commercial use permitted with attribution.
+  - **Tags:** `music-generation`, `commercial-use`, `freemium`
 - 💸 [**Udio**](https://www.udio.com/) - AI music generation.
   - **Free Tier Details:** 10 credits per day plus an additional 100 credits per month. **Note:** Commercial use is permitted with attribution, but the Terms of Service grant Udio a broad, perpetual license to user-generated content.
   - **Tags:** `music-generation`, `commercial-use`, `freemium`
@@ -159,6 +162,9 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - 🎁 [**Meta AI Studio**](https://ai.meta.com/ai-studio/) - Platform for building custom AI characters.
   - **Free Tier Details:** Allows users to build and deploy their own custom AI characters across WhatsApp, Instagram, and Messenger.
   - **Tags:** `ai-character-creation`, `custom-ai`, `social-media`, `free`
+- 💸 [**OpenAI ChatGPT (GPT-5)**](https://chatgpt.com/) - World's most advanced free-tier LLM access.
+  - **Free Tier Details:** Free access to GPT-5 via web interface with daily usage limits (approximately 10-15 prompts per 5-hour window). Full commercial rights granted for outputs.
+  - **Tags:** `chatbot`, `writing`, `coding`, `gpt-5`, `gold-tier`, `latest-model`
 - 💸 [**Poe.com**](https://poe.com/) - Aggregator platform for various AI models.
   - **Free Tier Details:** Offers a free tier with 3,000 “compute points” per day (approximately 150 messages/day).
   - **Tags:** `llm-aggregator`, `chatbot`, `freemium`
@@ -196,6 +202,9 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - 🎁 [**GitHub Actions**](https://github.com/features/actions) - CI/CD automation platform.
   - **Free Tier Details:** 2,000 free minutes per month for private repositories; unlimited for public repositories.
   - **Tags:** `ci-cd`, `devops`, `automation`, `freemium`
+- 💿 [**HARPA AI**](https://harpa.ai/) - Open source AI toolbox with BYOK support.
+  - **Free Tier Details:** Open source, unlimited with own API keys, generous free tier.
+  - **Tags:** `ai-toolbox`, `open-source`, `byok`, `web-automation`
 - 🎁 [**JSON Swiss**](https://www.jsonswiss.com/) - A free online utility to convert, format, validate, and otherwise manipulate JSON data for development purposes.
   - **Free Tier Details:** The entire tool is free. It offers various JSON manipulation functions.
   - **Tags:** `json`, `utility`, `developer-tool`, `free`
@@ -354,6 +363,9 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - 💸 [**Together.ai**](https://www.together.ai/) - AI model hosting with free API endpoints.
   - **Free Tier Details:** 100 million tokens per month for free, with a rate limit of 100 requests per minute (RPM).
   - **Tags:** `llm-api`, `api-hosting`, `freemium`
+- 💸 [**TryProxy.io / ProxyAI**](https://tryproxy.io/) - BYOK proxy for unlimited AI model access.
+  - **Free Tier Details:** Free tier available, unlimited when using your own API keys. Supports major LLM providers.
+  - **Tags:** `api-proxy`, `byok`, `unlimited-byok`, `llm-api`, `freemium`
 - 💸 [**WebScraping.AI**](https://webscraping.ai/) - An AI-powered web scraping API that handles browsers, proxies, and CAPTCHAs to return structured data.
   - **Free Tier Details:** The free account includes 2,000 API credits per month.
   - **Tags:** `web-scraping`, `api`, `developer-tool`, `freemium`
