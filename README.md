@@ -41,53 +41,29 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 *Tools for creating and editing images, designs, and vector graphics.*
 
 - 💸 [**Adobe Firefly**](https://firefly.adobe.com/) - AI image generation, video, audio, and vector features.
-  - **Free Tier Details:** 25 generative credits per month for free Creative Cloud users. Outputs are commercially safe and contractually indemnified by Adobe.
+  - **Free Tier Details:** Provides a monthly renewing allotment of "generative credits". Outputs are commercially safe and contractually indemnified by Adobe.
   - **Tags:** `image-generation`, `video-generation`, `audio-generation`, `commercial-safe`, `freemium`
 - 💸 [**Artbreeder**](https://www.artbreeder.com/) - AI for image generation, mixing, and splicing.
-  - **Free Tier Details:** Unlimited generations; 5 high-resolution downloads per month; 600 animation frames per month. Commercial use is permitted.
-  - **Tags:** `image-generation`, `style-transfer`, `commercial-use`, `freemium`
-- ⚠️ [**Beautiful.ai**](https://www.beautiful.ai/) - AI-driven slide design and text-to-presentation.
-  - **Free Tier Details:** Free basic plan with templates; **⚠️ AI generation features require Pro plan**.
-  - **Tags:** `presentation-design`, `freemium`, `templates`, `⚠️-ai-paywalled`
-- 💸 [**Canva AI (Magic Media)**](https://www.canva.com/ai-image-generator/) - AI-driven image, layout, and text generation integrated into editor.
-  - **Free Tier Details:** Approximately 100 images per day for all accounts. Directly integrated into the Canva editor.
-  - **Tags:** `image-generation`, `text-generation`, `layout-design`, `social-media`, `freemium`
+  - **Free Tier Details:** Free plan with core tools and a monthly limit on image uploads. All created images are licensed under Creative Commons CC0 (public domain), permitting full commercial use.
+  - **Tags:** `image-generation`, `style-transfer`, `commercial-use`, `public-domain`, `freemium`
 - 🎁 [**Craiyon**](https://www.craiyon.com/) - Unlimited image generation with attribution.
-  - **Free Tier Details:** Unlimited image generation, supported by ads. Commercial use is permitted with attribution and a small watermark.
+  - **Free Tier Details:** Unlimited image generation, supported by ads. Commercial use is permitted with mandatory attribution to craiyon.com.
   - **Tags:** `image-generation`, `unlimited`, `commercial-use`, `ad-supported`, `free`
-- ⚠️ [**DeepArt.io**](https://deepart.io/) - AI-powered style transfer and artistic effects.
-  - **Free Tier Details:** **⚠️ Limited demo credits only, no recurring free tier**.
-  - **Tags:** `style-transfer`, `artistic-effects`, `⚠️-demo-only`
 - 🎁 [**DeepAI**](https://deepai.org/) - Unlimited text-to-image generation.
-  - **Free Tier Details:** Unlimited text-to-image generation with its own model. Provides full commercial rights for generated content.
-  - **Tags:** `text-to-image`, `unlimited`, `commercial-use`, `free`
-- 💸 [**Flux AI**](https://flux-ai.io/) - AI image generation with multiple models.
-  - **Free Tier Details:** 40 initial credits plus 20 credits per day, equating to approximately 2 images per day.
-  - **Tags:** `image-generation`, `freemium`
-- 💸 [**Fotor AI**](https://www.fotor.com/features/ai-image-generator/) - AI image generation with editing features.
-  - **Free Tier Details:** 8 starting credits plus daily bonuses. Includes built-in upscaling and post-editing capabilities.
-  - **Tags:** `image-generation`, `image-editing`, `image-upscaling`, `freemium`
-- 💸 [**Ideogram.ai**](https://ideogram.ai/) - AI image generation with superior text rendering.
-  - **Free Tier Details:** 10 slow-queue credits per week (up to 40 images/week). Clear commercial use rights. Images are public.
-  - **Tags:** `image-generation`, `typography`, `commercial-use`, `freemium`
-- 🎁 [**Media.io Gender Swap**](https://www.media.io/gender-swap.html) - Free online tool for AI gender swap.
-  - **Free Tier Details:** Free to use with file size limits. No registration required, and offers unlimited use. Commercial use is permitted.
-  - **Tags:** `face-enhancement`, `gender-swap`, `free`, `no-registration`
+  - **Free Tier Details:** Offers a permanent free tier with its own model. Provides full commercial rights and dedicates generated content to the public domain.
+  - **Tags:** `text-to-image`, `unlimited`, `commercial-use`, `public-domain`, `free`
+- ⚠️ [**Ideogram.ai**](https://ideogram.ai/) - AI image generation with superior text rendering.
+  - **Free Tier Details:** Offers 25 prompt generations per day. **Note:** Commercial use rights are not confirmed by an official primary source, creating legal ambiguity.
+  - **Tags:** `image-generation`, `typography`, `freemium`, `⚠️-commercial-use-unconfirmed`
 - 💸 [**NightCafe**](https://nightcafe.studio/) - AI art generation with community features.
-  - **Free Tier Details:** 5 daily log-in credits plus social bonuses, resulting in approximately 10 images per day.
-  - **Tags:** `image-generation`, `community`, `freemium`
-- 💸 [**Photosonic (Writesonic)**](https://writesonic.com/photosonic) - AI image generation integrated with text tools.
-  - **Free Tier Details:** Approximately 10 images per day (associated with 10,000 words).
-  - **Tags:** `image-generation`, `text-to-image`, `freemium`
-- ⚠️ [**Snappify**](https://snappify.com/) - Developer tool for code presentations.
-  - **Free Tier Details:** **⚠️ AI features fully paywalled, basic features only in free tier**.
-  - **Tags:** `code-snippet`, `presentation`, `developer-tool`, `⚠️-ai-paywalled`
+  - **Free Tier Details:** Permanent free tier with a daily top-up of 5 credits. License terms explicitly allow for the commercial use and sale of creations.
+  - **Tags:** `image-generation`, `community`, `freemium`, `commercial-use`
 - 💸 [**StarryAI**](https://starryai.com/) - AI art generation with mobile apps.
-  - **Free Tier Details:** 5 credits per day. Offers mobile applications and seamless pattern generation. Provides clear commercial rights.
-  - **Tags:** `image-generation`, `mobile-app`, `commercial-use`, `freemium`
-- 💸 [**Waifu2x**](http://waifu2x.udp.jp/) - AI image upscaling for anime-style art and photos.
-  - **Free Tier Details:** Web version offers unlimited upscalings without registration, up to 5 MB and 1200x1200 px per image. Commercial use is acceptable.
-  - **Tags:** `image-upscaling`, `no-registration`, `freemium`, `web-based`
+  - **Free Tier Details:** Generous permanent free tier allowing up to 25 artworks daily without watermarks. License grants full ownership and commercial rights.
+  - **Tags:** `image-generation`, `mobile-app`, `commercial-use`, `freemium`, `high-quota`
+- 💿 [**Waifu2x**](http://waifu2x.udp.jp/) - AI image upscaling for anime-style art and photos.
+  - **Free Tier Details:** Free and open-source software (FOSS) available for anyone to download and use. Licensed under a copyleft license that permits commercial use.
+  - **Tags:** `image-upscaling`, `open-source`, `foss`, `commercial-use`
 
 <div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
 
@@ -95,11 +71,11 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 
 *Tools for generating music, voice, and other audio content.*
 
-- 💸 [**Suno AI**](https://suno.ai/) - AI music generation with commercial rights.
-  - **Free Tier Details:** Daily credits for music generation, monthly top-up. Commercial use permitted with attribution.
-  - **Tags:** `music-generation`, `commercial-use`, `freemium`
+- ⚠️ [**Suno AI**](https://suno.ai/) - AI music generation with commercial rights.
+  - **Free Tier Details:** A permanent free plan is available, offering 50 credits (10 songs) that renew daily. **Note:** Free tier outputs are explicitly for non-commercial use only.
+  - **Tags:** `music-generation`, `freemium`, `⚠️-non-commercial`
 - 💸 [**Udio**](https://www.udio.com/) - AI music generation.
-  - **Free Tier Details:** 10 credits per day plus an additional 100 credits per month. **Note:** Commercial use is permitted with attribution, but the Terms of Service grant Udio a broad, perpetual license to user-generated content.
+  - **Free Tier Details:** 10 daily credits plus an additional monthly pool of 100 credits. Commercial use is permitted on the free plan with attribution to Udio.
   - **Tags:** `music-generation`, `commercial-use`, `freemium`
 
 <div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
@@ -108,12 +84,9 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 
 *Tools for creating and editing video content.*
 
-- 🎁 [**CapCut**](https://www.capcut.com/) - AI-powered video editing and creation.
-  - **Free Tier Details:** Unlimited video editing and creation with CapCut AI (2025). Offers commercial rights for outputs.
-  - **Tags:** `video-editing`, `ai-features`, `commercial-use`, `unlimited`, `gold-tier`
-- 🎁 [**DaVinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve/) - Professional video editor with integrated AI.
-  - **Free Tier Details:** The core software is free and exceptionally powerful for professional video editing. **Note:** Its primary Al-powered features (DaVinci Neural Engine) are paywalled in the "Studio" version.
-  - **Tags:** `video-editing`, `vfx`, `audio-post`, `freemium`
+- ⚠️ [**CapCut**](https://www.capcut.com/) - AI-powered video editing and creation.
+  - **Free Tier Details:** Comprehensive free version of the video editor is available. **Warning:** The Terms of Service are predatory, granting CapCut a perpetual, worldwide, royalty-free license to use, modify, and monetize all user content, including private drafts. Use for sensitive or proprietary work is a significant risk.
+  - **Tags:** `video-editing`, `ai-features`, `unlimited`, `⚠️-predatory-tos`
 
 <div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
 
@@ -122,14 +95,8 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 *Tools for writing, editing, translation, and conversational AI.*
 
 - 💸 [**ElevateAI**](https://www.elevateai.com/) - AI platform for transcription and generative AI features.
-  - **Free Tier Details:** "1K Every Day" program provides 1,000 free transcripts daily, plus free access to generative AI features.
+  - **Free Tier Details:** "1K Every Day" program provides 1,000 free interactions daily (transcription, GenAI features). This is a permanent, substantive free tier.
   - **Tags:** `speech-to-text`, `transcription`, `api`, `freemium`
-- 💸 [**Localit**](https://localit.io/) - A translation management system (TMS) for localizing websites, mobile apps, and other software content.
-  - **Free Tier Details:** The free plan includes 2 users, 500 translation keys across all projects, and 100 MB of storage.
-  - **Tags:** `translation`, `localization`, `i18n`, `freemium`
-- 💸 [**PostPulse**](https://postpulseai.com/) - An AI tool that crafts and publishes posts on branded domains to boost a startup's online presence.
-  - **Free Tier Details:** The free plan allows for 1 AI-crafted post per month on a branded domain.
-  - **Tags:** `content-creation`, `seo`, `marketing`, `freemium`
 
 <div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
 
@@ -137,9 +104,12 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 
 *Resources and programs for students, educators, and researchers.*
 
-- 💸 [**Paperpal**](https://paperpal.com/) - Academic writing assistant.
-  - **Free Tier Details:** Includes plagiarism control, grammar checking, and citation assistance. **Note:** Qualifies with a recurring free tier, but is explicitly designed for and restricted to academic and research use cases only.
-  - **Tags:** `academic-writing`, `plagiarism-checker`, `grammar-checker`, `freemium`
+- 🎁 [**Google NotebookLM**](https://notebooklm.google.com/) - AI-powered research assistant grounded in your source documents.
+  - **Free Tier Details:** A powerful, feature-rich, and permanently free tool for individuals with a standard Google account. Commercial use of outputs is permitted.
+  - **Tags:** `research-assistant`, `summarization`, `content-creation`, `free`
+- ⚠️ [**Paperpal**](https://paperpal.com/) - Academic writing assistant.
+  - **Free Tier Details:** A permanent free plan with renewing monthly limits. **Note:** Primarily for academic use; the terms of service do not contain information regarding commercial use rights for outputs.
+  - **Tags:** `academic-writing`, `plagiarism-checker`, `freemium`, `⚠️-commercial-use-unconfirmed`
 
 <div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
 
@@ -147,30 +117,18 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 
 *Chatbots, social media bots, and platforms for creating custom AI characters.*
 
-- 💸 [**Anthropic Claude (Sonnet 4)**](https://claude.ai/) - AI assistant for reasoning, writing, and coding.
-  - **Free Tier Details:** Sustained and meaningful free access to Claude Sonnet 4 with moderate daily usage limits. Full commercial rights are granted.
-  - **Tags:** `chatbot`, `writing`, `coding`, `api`, `claude-sonnet-4`, `gold-tier`, `privacy-focused`
-- 💸 [**Google Gemini (Flash 2.5)**](https://gemini.google.com/) - Multimodal AI for data analysis and content generation.
+- 💸 [**Google Gemini**](https://gemini.google.com/) - Multimodal AI for data analysis and content generation.
   - **Free Tier Details:** Free access to the Gemini 2.5 Flash model via web interface and a generous free API tier with rate limits. Full commercial rights are granted.
   - **Tags:** `multimodal`, `data-analysis`, `long-context`, `api`, `gemini-2.5`, `silver-tier`
-- 🎁 [**HuggingFace Chat (HuggingChat)**](https://huggingface.co/chat/) - Free and open-source chat with various LLMs.
-  - **Free Tier Details:** Entirely free and open source, with unlimited chat sessions across a variety of open models.
-  - **Tags:** `llm-aggregator`, `open-source`, `chatbot`, `free`
-- 🎁 [**MEE6 AI plugin**](https://mee6.xyz/) - Generative AI capabilities within Discord.
-  - **Free Tier Details:** Offers `/imagine` command for image generation and `/write` for text generation and Q&A. Includes a Bot Personalizer feature.
-  - **Tags:** `discord-bot`, `image-generation`, `text-generation`, `chatbot`, `ai-personas`
-- 🎁 [**Meta AI Studio**](https://ai.meta.com/ai-studio/) - Platform for building custom AI characters.
-  - **Free Tier Details:** Allows users to build and deploy their own custom AI characters across WhatsApp, Instagram, and Messenger.
-  - **Tags:** `ai-character-creation`, `custom-ai`, `social-media`, `free`
-- 💸 [**OpenAI ChatGPT (GPT-5)**](https://chatgpt.com/) - World's most advanced free-tier LLM access.
-  - **Free Tier Details:** Free access to GPT-5 via web interface with daily usage limits (approximately 10-15 prompts per 5-hour window). Full commercial rights granted for outputs.
-  - **Tags:** `chatbot`, `writing`, `coding`, `gpt-5`, `gold-tier`, `latest-model`
-- 💸 [**Poe.com**](https://poe.com/) - Aggregator platform for various AI models.
-  - **Free Tier Details:** Offers a free tier with 3,000 “compute points” per day (approximately 150 messages/day).
-  - **Tags:** `llm-aggregator`, `chatbot`, `freemium`
-- 💸 [**xAI Grok 3**](https://grok.com/) - AI model with real-time information and multimodal features.
-  - **Free Tier Details:** Freely accessible via grok.com and X.com. Free plan allows 10 text prompts and 10 image generations every 2 hours.
-  - **Tags:** `llm`, `multimodal`, `real-time-search`, `freemium`
+- 🎁 [**HuggingFace Chat**](https://huggingface.co/chat/) - Free and open-source chat with various LLMs.
+  - **Free Tier Details:** A gateway to genuinely free and open-source models. Its core offering (HuggingChat) provides substantive utility. Commercial use rights are deferred to the underlying models' licenses.
+  - **Tags:** `llm-aggregator`, `open-source`, `chatbot`, `free`, `foss-gateway`
+- ⚠️ [**Mistral Le Chat**](https://chat.mistral.ai/) - AI assistant from Mistral AI.
+  - **Free Tier Details:** A permanent "Free" plan is available with a daily message cap. **Note:** Terms of use restrict the service to "personal purposes or your own internal business needs," prohibiting use in external-facing commercial products.
+  - **Tags:** `chatbot`, `writing`, `coding`, `⚠️-non-commercial-external`
+- ⚠️ [**xAI Grok**](https://grok.com/) - AI model with real-time information and multimodal features.
+  - **Free Tier Details:** Appears to be free to download and use. **Note:** A complete lack of detail regarding operational limits and licensing terms makes it impossible to verify for professional use.
+  - **Tags:** `llm`, `multimodal`, `real-time-search`, `⚠️-unverified`
 
 <div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
 
@@ -179,37 +137,28 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 *AI-powered tools to assist with coding, testing, and security analysis.*
 
 - 💸 [**Amazon CodeWhisperer (Individual)**](https://aws.amazon.com/codewhisperer/) - AI code suggestions and security scanning.
-  - **Free Tier Details:** Unlimited code suggestions and 50 security scans per month for individual use.
-  - **Tags:** `code-completion`, `ai-assistant`, `security-scanning`, `developer-tool`, `freemium`
-- 💸 [**Chat2DB**](https://github.com/chat2db/Chat2DB) - Open-source database IDE with NLP-to-SQL.
-  - **Free Tier Details:** Open-source tool from Alibaba, available for free local installation and as a web version.
-  - **Tags:** `database-ide`, `sql`, `nosql`, `nlp-to-sql`, `open-source`
-- 💸 [**Codeium**](https://www.codeium.com/) - Unlimited AI code completion and chat.
-  - **Free Tier Details:** Unlimited single- and multi-line code completions and access to an IDE-integrated chat assistant.
-  - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`, `gold-tier`
+  - **Free Tier Details:** "Free-forever plan" for individuals with unlimited code suggestions and 50 security scans per month. **Note:** Commercial use is implied by general AWS terms, but specific product terms should be located and reviewed.
+  - **Tags:** `code-completion`, `ai-assistant`, `security-scanning`, `developer-tool`, `freemium`, `⚠️-verify-terms`
+- 💿 [**Chat2DB**](https://github.com/chat2db/Chat2DB) - Open-source database IDE with NLP-to-SQL.
+  - **Free Tier Details:** Free, open-source "Community plan" available on GitHub. Licensed under Apache License 2.0, which permits commercial use.
+  - **Tags:** `database-ide`, `sql`, `nosql`, `nlp-to-sql`, `open-source`, `commercial-use`
+- ⚠️ [**Codeium**](https://www.codeium.com/) - Unlimited AI code completion and chat.
+  - **Free Tier Details:** "Free tier forever" offers unlimited code autocomplete and chat functionality. **Note:** A clear, verifiable commercial use license is not provided in the research documentation.
+  - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`, `gold-tier`, `⚠️-commercial-use-unconfirmed`
 - 💸 [**Cursor "Hobby"**](https://cursor.sh/) - AI code assistant with advanced features.
-  - **Free Tier Details:** "Hobby" plan includes 2,000 code suggestions, 50 “slow premium” requests, and 200 “cursor-small” requests per month.
-  - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`
-- 💸 [**Cypress Cloud**](https://www.cypress.io/) - SaaS web app for scaling and debugging tests.
-  - **Free Tier Details:** Permanent "Starter" free plan includes 500 test results per month and up to 50 users.
-  - **Tags:** `testing`, `automation`, `developer-tool`, `freemium`
-- 💸 [**EverSQL**](https://www.eversql.com/) - AI-powered SQL optimization and database monitoring.
-  - **Free Tier Details:** Free for a single initial query; includes a sensor for continuous DB monitoring.
-  - **Tags:** `sql-optimization`, `database-monitoring`, `freemium`
-- 💸 [**ForgeCode**](https://forgecode.dev/) - A lightweight, non-intrusive AI pair programmer that operates within the user's terminal.
-  - **Free Tier Details:** The free plan has a dynamic request limit (typically 10-50/month) but allows for unlimited requests when the user provides their own API key (BYOK).
-  - **Tags:** `ai-assistant`, `terminal`, `developer-tool`, `byok`, `freemium`
+  - **Free Tier Details:** Permanent free "Hobby" plan with 50 slow premium model uses and 2,000 standard completions per month. Explicitly grants commercial use rights for all generated code.
+  - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`, `commercial-use`
 - 🎁 [**GitHub Actions**](https://github.com/features/actions) - CI/CD automation platform.
-  - **Free Tier Details:** 2,000 free minutes per month for private repositories; unlimited for public repositories.
+  - **Free Tier Details:** 2,000 free minutes per month for private repositories; unlimited for public repositories. A foundational tool for modern software development.
   - **Tags:** `ci-cd`, `devops`, `automation`, `freemium`
+- ⚠️ [**GitHub Copilot**](https://github.com/features/copilot) - AI pair programmer.
+  - **Free Tier Details:** Permanent free plan for individuals with 50 chat requests and 2,000 code completions per month. **Note:** An explicit commercial use license for the standard free tier is not present in easily accessible documentation, creating legal ambiguity.
+  - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`, `⚠️-commercial-use-unconfirmed`
 - 💿 [**HARPA AI**](https://harpa.ai/) - Open source AI toolbox with BYOK support.
   - **Free Tier Details:** Open source, unlimited with own API keys, generous free tier.
   - **Tags:** `ai-toolbox`, `open-source`, `byok`, `web-automation`
-- 🎁 [**JSON Swiss**](https://www.jsonswiss.com/) - A free online utility to convert, format, validate, and otherwise manipulate JSON data for development purposes.
-  - **Free Tier Details:** The entire tool is free. It offers various JSON manipulation functions.
-  - **Tags:** `json`, `utility`, `developer-tool`, `free`
-- 💸 [**Microsoft IntelliCode**](https://visualstudio.microsoft.com/services/intellicode/) - AI-assisted code development in Visual Studio.
-  - **Free Tier Details:** Included by default in most modern Visual Studio workloads and as a free extension for VS Code.
+- 🎁 [**Microsoft IntelliCode**](https://visualstudio.microsoft.com/services/intellicode/) - AI-assisted code development in Visual Studio.
+  - **Free Tier Details:** A genuinely free feature enhancement for widely used professional IDEs, with no indication of restrictive licensing.
   - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `local-inference`, `free`
 - 💸 [**Octomind**](https://www.octomind.dev/) - An AI-powered test automation platform that generates, runs, and maintains end-to-end tests for web applications.
   - **Free Tier Details:** The free tier includes up to 10 test cases and 50 test runs per month.
@@ -281,6 +230,9 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - 💿 [**Jenkins**](https://www.jenkins.io/) - Open-source CI/CD automation server.
   - **Free Tier Details:** Open source with no limitations. Features a large plugin ecosystem.
   - **Tags:** `ci-cd`, `devops`, `automation`, `open-source`
+- ⚠️ [**Nvidia Chat with RTX**](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx/) - Local generative AI on your PC.
+  - **Free Tier Details:** Genuinely free to download and use indefinitely. **Note:** Requires high-end NVIDIA RTX 30/40 series GPU. A specific EULA for commercial use was not available for verification.
+  - **Tags:** `local-ai`, `chatbot`, `rag`, `⚠️-hardware-required`, `⚠️-commercial-use-unconfirmed`
 - 💿 [**Playwright MCP Server**](https://github.com/microsoft/playwright-python) - LLM-driven browser automation and test generation.
   - **Free Tier Details:** Open source and free to use under the MIT license.
   - **Tags:** `browser-automation`, `testing`, `open-source`, `llm-driven`
@@ -290,9 +242,6 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - 💿 [**Semgrep Community Edition**](https://semgrep.dev/) - Open-source static application security testing (SAST).
   - **Free Tier Details:** Open source with unlimited analysis of private and public repositories.
   - **Tags:** `sast`, `security`, `open-source`, `code-analysis`, `gold-tier`
-- 💿 [**Stable Diffusion**](https://stablediffusionweb.com/) - Open-source foundation model for image generation.
-  - **Free Tier Details:** Practically unlimited via SDXL hosts. Community license allows free commercial use for entities with less than 1M USD turnover.
-  - **Tags:** `image-generation`, `open-source`, `commercial-use`, `decentralized`
 - 💿 [**Trivy**](https://trivy.dev/) - Open-source vulnerability and misconfiguration scanner.
   - **Free Tier Details:** Open source, single binary, no dependencies, and unlimited scanning.
   - **Tags:** `vulnerability-scanning`, `security`, `open-source`, `devsecops`
@@ -530,7 +479,7 @@ Contributions are welcome and encouraged! Please read the [**Contributing Guidel
 - 💸 [**Microsoft Power Automate**](https://powerautomate.microsoft.com/) - Workflow automation for cloud flows.
   - **Free Tier Details:** Provides 6,000 requests per user every 24 hours.
   - **Tags:** `workflow-automation`, `productivity`, `freemium`
-- 💿 [**n8n**](httpshttps://n8n.io/) - Open-source workflow automation.
+- 💿 [**n8n**](https://n8n.io/) - Open-source workflow automation.
   - **Free Tier Details:** Unlimited workflows and executions when self-hosted. Native AI Agent node supports major LLMs.
   - **Tags:** `workflow-automation`, `open-source`, `self-hosted`, `llm-integration`, `gold-tier`
 - 💸 [**NameKit**](https://namekit.app/) - An AI-powered domain name generator that helps users discover available and creative domain names without premium markups.
