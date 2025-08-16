@@ -1,47 +1,32 @@
 # Contributing to Awesome Free AI
 
-First off, thank you for considering contributing! Your help is essential for keeping this list great.
+Thank you for considering a contribution! Your help keeps this list awesome and useful to everyone.
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open-source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
+---
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## How Can I Contribute?
+---
 
-There are several ways you can contribute to this project:
+## How to Contribute
 
-- **Suggesting a new tool:** If you know of a great free AI tool that isn't listed, please add it!
-- **Fixing a broken link:** Links can go stale. If you find one that's not working, please submit a fix.
-- **Improving a description:** If you think a description can be more accurate or concise, we welcome the improvement.
-- **Updating free tier details:** Free tiers change all the time. If you notice a change, please help us keep the list accurate.
+You can help by:
 
-## Your First Contribution
+- **Suggesting a new AI tool/service:** It must be genuinely free and truly awesome.
+- **Reporting/fixing broken links:** Outdated links hurt the list’s quality.
+- **Improving descriptions:** Make them clearer, more objective, or up-to-date.
+- **Updating free tier details:** Plans frequently change; accuracy matters.
+- **Suggesting new categories:** If the list grows, better structure helps everyone.
 
-Unsure where to begin? You can start by checking for any [open issues](https://github.com/Fullthrottle83/awesome-free-ai/issues) that might need help.
+---
 
-### Adding a New Tool to the List
+## Adding a New Tool
 
-This is the most common contribution. To maintain the quality and consistency of the list, please follow these rules:
+Follow these steps and rules:
 
-1.  **Search first:** Make sure the tool you're suggesting isn't already on the list.
-2.  **One pull request per tool:** Please submit a separate pull request for each new tool you suggest. This makes it easier to review.
-3.  **Maintain alphabetical order:** Add your new entry to the appropriate category in alphabetical order.
-4.  **Follow the format:** Use the exact format below for your entry. This is crucial for consistency.
-
-```markdown
-- [**Tool Name**](https://example.com/) - A one-sentence, powerful description of what the tool does.
-  - **Free Tier Details:** Be specific. For example: "150 daily credits," "10,000 words/month," or "Unlimited use with watermark."
-  - **Tags:** `tag1`, `tag2`, `tag3`
-````
-
-### Submitting a Pull Request
-
-1.  Fork the repository.
-2.  Create a new branch for your changes (e.g., `feature/add-leonardo-ai` or `fix/correct-chatgpt-link`).
-3.  Add or edit the entry in the `README.md` file.
-4.  Commit your changes with a clear and descriptive commit message.
-5.  Push your branch and open a pull request, explaining the change you made.
-
-Thank you again for your contribution\!
+1. **Search first:** Ensure your suggestion isn’t already included.
+2. **One tool per pull request:** Submit each suggestion separately.
+3. **Alphabetize:** Place the new entry in alphabetical order within its category.
+4. **Format your entry like this:**
