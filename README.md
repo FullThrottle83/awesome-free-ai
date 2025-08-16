@@ -1,8 +1,9 @@
 # Awesome Free AI 🤖
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![GitHub Stars](https://img.shields.io/github/stars/FullThrottle83/awesome-free-ai.svg?style=social)](https://github.com/FullThrottle83/awesome-free-ai/stargazers)
-[![Lint Status](https://github.com/FullThrottle83/awesome-free-ai/actions/workflows/main.yml/badge.svg)](https://github.com/FullThrottle83/awesome-free-ai/actions)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  
+[![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/) 
+[![GitHub Stars](https://img.shields.io/github/stars/FullThrottle83/awesome-free-ai.svg?style=social)](https://github.com/FullThrottle83/awesome-free-ai/stargazers)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/FullThrottle83/awesome-free-ai.svg)](https://github.com/FullThrottle83/awesome-free-ai/commits/main)
+
 
 A curated list of rigorously vetted AI tools, services, and resources with generous, permanent free tiers suitable for professional use. Every tool is verified to provide significant, ongoing value without a time-limited trial.
 
