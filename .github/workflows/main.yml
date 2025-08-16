@@ -1,0 +1,29 @@
+name: Awesome Lint
+
+# Trigger the workflow on pull requests to the main branch
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checkout the repository code
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      # Set up Node.js environment (awesome-lint requires Node.js)
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      # Install awesome-lint
+      - name: Install awesome-lint
+        run: npm install -g awesome-lint
+        
+      # Run awesome-lint on the README.md file
+      - name: Run awesome-lint
+        run: awesome-lint README.md
