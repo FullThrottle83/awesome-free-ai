@@ -1,3 +1,6 @@
+![Awesome Free AI](https://eandisso.sirv.com/awesome-free-ai.jpg)
+
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0](https://img.shields.io/badge/license-CC0-blueviolet?style=flat)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub Stars](https://img.shields.io/github/stars/FullThrottle83/awesome-free-ai?style=flat)](https://github.com/FullThrottle83/awesome-free-ai/stargazers)
