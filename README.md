@@ -472,6 +472,9 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 💸 [Microsoft Power Automate](https://powerautomate.microsoft.com/) - A workflow automation for cloud flows.
   - **Free Tier Details:** Provides 6,000 requests per user every 24 hours.
   - **Tags:** `workflow-automation`, `productivity`, `freemium`
+- 💸 [MindMap AI](https://mindmapai.app/research-to-mindmap) - Visual AI tool for organizing ideas, structuring research, and transforming content into interactive mind maps.
+  - **Free Tier Details:** Offers a permanent free plan with AI-powered mind map generation, editing, and export capabilities.
+  - **Tags:** 'mind-mapping', 'knowledge-management', 'productivity', 'research', 'freemium'
 - 💿 [n8n](https://n8n.io/) - An open-source workflow automation tool.
   - **Free Tier Details:** Unlimited workflows and executions when self-hosted. Native AI Agent node supports major LLMs.
   - **Tags:** `workflow-automation`, `open-source`, `self-hosted`, `llm-integration`, `gold-tier`
