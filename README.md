@@ -81,6 +81,10 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** Comprehensive free version of the video editor is available. **Warning:** The Terms of Service are predatory, granting CapCut a perpetual, worldwide, royalty-free license to use, modify, and monetize all user content, including private drafts. Use for sensitive or proprietary work is a significant risk.
   - **Tags:** `video-editing`, `ai-features`, `unlimited`, `⚠️-predatory-tos`
 
+- 🎁 [Cyber Collector](https://t.me/cybercollectorbot) - Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos. No signup, no ads. [Website](https://cybercollector.hitkey.io)
+  - **Free Tier Details:** Completely free with no subscription, no credit limits, and no ads. Works via Telegram — send a video URL, get the file back.
+  - **Tags:** `video-download`, `telegram-bot`, `tiktok`, `instagram`, `youtube`, `free`
+
 <div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
 
 ## ✍️ Text & Language
