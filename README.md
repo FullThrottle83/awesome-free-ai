@@ -113,6 +113,9 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 💸 [Google Gemini](https://gemini.google.com/) - A multimodal AI for data analysis and content generation.
   - **Free Tier Details:** Free access to the Gemini 2.5 Flash model via web interface and a generous free API tier with rate limits. Full commercial rights are granted.
   - **Tags:** `multimodal`, `data-analysis`, `long-context`, `api`, `gemini-2.5`, `silver-tier`
+- 💸 [GPTGeminiGrok.AI](https://trygrokai.asia/) - A browser workspace for multi-model AI chat, image generation, and file analysis.
+  - **Free Tier Details:** Account registration is required; the free tier includes 10 requests per day.
+  - **Tags:** `llm-aggregator`, `chatbot`, `image-generation`, `productivity`, `freemium`
 - 🎁 [HuggingFace Chat](https://huggingface.co/chat/) - A free and open-source chat with various LLMs.
   - **Free Tier Details:** A gateway to genuinely free and open-source models. Its core offering (HuggingChat) provides substantive utility. Commercial use rights are deferred to the underlying models' licenses.
   - **Tags:** `llm-aggregator`, `open-source`, `chatbot`, `free`, `foss-gateway`
