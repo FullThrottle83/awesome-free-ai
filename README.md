@@ -116,6 +116,9 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 🎁 [HuggingFace Chat](https://huggingface.co/chat/) - A free and open-source chat with various LLMs.
   - **Free Tier Details:** A gateway to genuinely free and open-source models. Its core offering (HuggingChat) provides substantive utility. Commercial use rights are deferred to the underlying models' licenses.
   - **Tags:** `llm-aggregator`, `open-source`, `chatbot`, `free`, `foss-gateway`
+- 🎁 [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
+  - **Free Tier Details:** Completely free character chat with no sign up required. SFW only.
+  - **Tags:** `chatbot`, `character`, `free`, `sfw`, `no-signup`
 - ⚠️ [Mistral Le Chat](https://chat.mistral.ai/) - An AI assistant from Mistral AI.
   - **Free Tier Details:** A permanent "Free" plan is available with a daily message cap. **Note:** Terms of use restrict the service to "personal purposes or your own internal business needs," prohibiting use in external-facing commercial products.
   - **Tags:** `chatbot`, `writing`, `coding`, `⚠️-non-commercial-external`
