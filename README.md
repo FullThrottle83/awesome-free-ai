@@ -439,6 +439,9 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 💸 [Grammarly](https://www.grammarly.com/) - A generative AI writing assistant and grammar checker.
   - **Free Tier Details:** 100 generative AI prompts per month for AI writing assistance and grammar checking.
   - **Tags:** `writing-assistant`, `grammar-checker`, `generative-ai`, `freemium`
+- 💸 [ResumeAI](https://withresumeai.com/) - Free ATS checker and AI resume builder with a live candidate leaderboard.
+  - **Free Tier Details:** 3 ATS checks/day with no account, 10/day with a free account.
+  - **Tags:** `resume`, `ats-checker`, `career`, `freemium`
 - 💸 [HARPA/Merlin](https://harpa.ai/) - A multi-purpose AI toolbox for any webpage.
   - **Free Tier Details:** Provides a unified interface to access various leading LLMs on any webpage.
   - **Tags:** `ai-toolbox`, `web-automation`, `content-creation`, `freemium`
