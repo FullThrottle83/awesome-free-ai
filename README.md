@@ -64,6 +64,9 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 
 *Tools for generating music, voice, and other audio content.*
 
+- 🎁 [QuietTake](https://noiseremover.site/) - Browser-local neural speech-noise reduction with original/cleaned playback and WAV export.
+  - **Free Tier Details:** Free core processing and WAV download without signup or payment details. Each file must meet both the 50 MB and five-minute limits; audio is processed locally without upload.
+  - **Tags:** `speech-cleanup`, `noise-reduction`, `browser-local`, `free`
 - ⚠️ [Suno AI](https://suno.ai/) - An AI music generation tool with commercial rights.
   - **Free Tier Details:** A permanent free plan is available, offering 50 credits (10 songs) that renew daily. **Note:** Free tier outputs are explicitly for non-commercial use only.
   - **Tags:** `music-generation`, `freemium`, `⚠️-non-commercial`
