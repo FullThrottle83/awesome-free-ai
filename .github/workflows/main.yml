@@ -1,29 +1,21 @@
-name: Awesome Lint
+name: Catalog checks
 
-# Trigger the workflow on pull requests to the main branch
 on:
+  push:
+    branches: [main]
   pull_request:
-    branches: [ main ]
+    branches: [main]
+
+permissions:
+  contents: read
 
 jobs:
-  awesome-lint:
+  catalog:
     runs-on: ubuntu-latest
-    
     steps:
-      # Checkout the repository code
-      - name: Checkout code
-        uses: actions/checkout@v4
-        
-      # Set up Node.js environment (awesome-lint requires Node.js)
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '18'
-          
-      # Install awesome-lint
-      - name: Install awesome-lint
-        run: npm install -g awesome-lint
-        
-      # Run awesome-lint on the README.md file
-      - name: Run awesome-lint
-        run: awesome-lint README.md
+          node-version: '22'
+      - name: Validate catalog
+        run: node scripts/check-catalog.mjs
