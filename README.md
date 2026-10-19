@@ -1,31 +1,51 @@
-![Awesome Free AI](https://eandisso.sirv.com/awesome-free-ai.jpg)
+# Awesome Free AI
 
-<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Free AI — free AI tools with clear limitations" width="100%">
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) &nbsp;&nbsp; [![CC0](https://img.shields.io/badge/license-CC0-blueviolet?style=flat)](https://creativecommons.org/publicdomain/zero/1.0/) &nbsp;&nbsp; [![GitHub Stars](https://img.shields.io/github/stars/FullThrottle83/awesome-free-ai?style=flat)](https://github.com/FullThrottle83/awesome-free-ai/stargazers) &nbsp;&nbsp; [![Last Commit](https://img.shields.io/github/last-commit/FullThrottle83/awesome-free-ai?style=flat)](https://github.com/FullThrottle83/awesome-free-ai/commits)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Catalog checks](https://github.com/FullThrottle83/awesome-free-ai/actions/workflows/main.yml/badge.svg)](https://github.com/FullThrottle83/awesome-free-ai/actions/workflows/main.yml)
+[![License: CC0](https://img.shields.io/badge/license-CC0--1.0-blue)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/FullThrottle83/awesome-free-ai)](https://github.com/FullThrottle83/awesome-free-ai/stargazers)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](CONTRIBUTING.md)
 
-</div>
+**AI tools you can actually try for free.** A practical directory of online services, developer APIs, and AI software you can run locally.
 
+> **Review in progress — October 2026.** Most descriptions below date from 2025 and **have not yet been reverified**. Free quotas, product names, licensing and commercial-use claims can change. The quick-start examples were reviewed against first-party documentation on **19 October 2026**; this means source verification, **not** hands-on testing.
 
+## Start here
 
+| Use case | Tool | What is free? | First-party evidence |
+| --- | --- | --- | --- |
+| Research documents | [Gemini Notebook](https://notebook.google.com/) (formerly NotebookLM) | Limited personal access. | [Google](https://notebook.google.com/) |
+| Code with AI | [GitHub Copilot Free](https://github.com/features/copilot) | 2,000 inline suggestions and 50 premium requests monthly for eligible individuals. | [GitHub](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/getting-started-with-copilot-on-your-personal-account/about-individual-copilot-plans-and-benefits) |
+| Build with an AI API | [Gemini API](https://ai.google.dev/gemini-api/docs/pricing) | Some models have a rate-limited free tier. | [Google](https://ai.google.dev/gemini-api/docs/pricing) |
+| Deploy AI inference | [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) | 10,000 free neurons/day on eligible models; others require paid access. | [Cloudflare](https://developers.cloudflare.com/workers-ai/platform/pricing/) |
+| Run models locally | [Ollama](https://github.com/ollama/ollama) | Free local runtime; model licenses and hardware costs vary. | [Ollama](https://github.com/ollama/ollama) |
+| Transcribe audio | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | Free local implementation; model rights are separate. | [GitHub](https://github.com/ggml-org/whisper.cpp) |
+| Upscale images | [Upscayl](https://github.com/upscayl/upscayl) | Open-source desktop app; typically needs a supported GPU. | [GitHub](https://github.com/upscayl/upscayl) |
+| Automate browsers | [Playwright MCP](https://github.com/microsoft/playwright-mcp) | Open-source server; AI model access is separate. | [Microsoft](https://github.com/microsoft/playwright-mcp) |
 
-A curated list of rigorously vetted AI tools, services, and resources with generous, permanent free tiers suitable for professional use. Every tool is verified to provide significant, ongoing value without a time-limited trial.
+## Understanding the labels
+
+**💿 Open-source** means source code is published under a qualifying license, not that model/API inference or infrastructure is free. **💸 Freemium** means recurring free access with restrictions. **🎁 Free service** means no-cost use under current terms. **⚠️ Restricted** means important usage or licensing caveats.
+
+**Free does not automatically mean commercial-use rights or private data processing.** Always inspect current terms, the underlying model license, data handling, region availability and rate limits before professional use.
 
 ## Contents
 
-- [🎨 Image & Design](#-image--design)
-- [🎵 Audio & Music](#-audio--music)
-- [🎬 Video](#-video)
-- [✍️ Text & Language](#️-text--language)
-- [🎓 Education & Research](#-education--research)
-- [🤖 Conversational & Social AI](#-conversational--social-ai)
-- [💻 Code, Testing & Security](#-code-testing--security)
-- [</> Developer Libraries & Models](#-developer-libraries--models)
-- [🚀 Infrastructure & APIs](#-infrastructure--apis)
-- [📊 Data, Observability & Analysis](#-data-observability--analysis)
-- [📈 Productivity & Automation](#-productivity--automation)
-
-**Legend:** 💿 **Open-Source** · 💸 **Freemium** · 🎁 **Free Service** · ⚠️ **Limited/Restricted AI**
+- [Image & Design](#-image--design)
+- [Audio & Music](#-audio--music)
+- [Video](#-video)
+- [Text & Language](#️-text--language)
+- [Education & Research](#-education--research)
+- [Conversational & Social AI](#-conversational--social-ai)
+- [Code, Testing & Security](#-code-testing--security)
+- [Developer Libraries & Models](#-developer-libraries--models)
+- [Infrastructure & APIs](#-infrastructure--apis)
+- [Data, Observability & Analysis](#-data-observability--analysis)
+- [Productivity & Automation](#-productivity--automation)
 
 ---
 
@@ -58,7 +78,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** Free and open-source software (FOSS) available for anyone to download and use. Licensed under a copyleft license that permits commercial use.
   - **Tags:** `image-upscaling`, `open-source`, `foss`, `commercial-use`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## 🎵 Audio & Music
 
@@ -71,7 +91,11 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** 10 daily credits plus an additional monthly pool of 100 credits. Commercial use is permitted on the free plan with attribution to Udio.
   - **Tags:** `music-generation`, `commercial-use`, `freemium`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+- 💿 [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Local speech recognition powered by Whisper models.
+  - **Free Tier Details:** The implementation is free and MIT-licensed; hardware and model licenses are separate. [Official source](https://github.com/ggml-org/whisper.cpp). **Source checked:** 2026-10-19.
+  - **Tags:** `transcription`, `local-ai`, `open-source`
+
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## 🎬 Video
 
@@ -81,7 +105,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** Comprehensive free version of the video editor is available. **Warning:** The Terms of Service are predatory, granting CapCut a perpetual, worldwide, royalty-free license to use, modify, and monetize all user content, including private drafts. Use for sensitive or proprietary work is a significant risk.
   - **Tags:** `video-editing`, `ai-features`, `unlimited`, `⚠️-predatory-tos`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## ✍️ Text & Language
 
@@ -91,20 +115,21 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** The "1K Every Day" program provides 1,000 free interactions daily (transcription, GenAI features). This is a permanent, substantive free tier.
   - **Tags:** `speech-to-text`, `transcription`, `api`, `freemium`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## 🎓 Education & Research
 
 *Resources and programs for students, educators, and researchers.*
 
-- 🎁 [Google NotebookLM](https://notebooklm.google.com/) - An AI-powered research assistant grounded in your source documents.
-  - **Free Tier Details:** A powerful, feature-rich, and permanently free tool for individuals with a standard Google account. Commercial use of outputs is permitted.
-  - **Tags:** `research-assistant`, `summarization`, `content-creation`, `free`
+- 🎁 [Gemini Notebook (formerly NotebookLM)](https://notebook.google.com/) - An AI research notebook grounded in your sources.
+  - **Free Tier Details:** Personal access without a paid subscription has feature and usage limits. [Official product](https://notebook.google.com/). **Source checked:** 2026-10-19.
+  - **Tags:** `research`, `source-grounded`, `free-tier`
+
 - ⚠️ [Paperpal](https://paperpal.com/) - An academic writing assistant.
   - **Free Tier Details:** A permanent free plan with renewing monthly limits. **Note:** Primarily for academic use; the terms of service do not contain information regarding commercial use rights for outputs.
   - **Tags:** `academic-writing`, `plagiarism-checker`, `freemium`, `⚠️-commercial-use-unconfirmed`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## 🤖 Conversational & Social AI
 
@@ -123,33 +148,34 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** Appears to be free to download and use. **Note:** A complete lack of detail regarding operational limits and licensing terms makes it impossible to verify for professional use.
   - **Tags:** `llm`, `multimodal`, `real-time-search`, `⚠️-unverified`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## 💻 Code, Testing & Security
 
 *AI-powered tools to assist with coding, testing, and security analysis.*
 
-- 💸 [Amazon CodeWhisperer (Individual)](https://aws.amazon.com/codewhisperer/) - An AI code suggestions and security scanning tool.
-  - **Free Tier Details:** "Free-forever plan" for individuals with unlimited code suggestions and 50 security scans per month. **Note:** Commercial use is implied by general AWS terms, but specific product terms should be located and reviewed.
-  - **Tags:** `code-completion`, `ai-assistant`, `security-scanning`, `developer-tool`, `freemium`, `⚠️-verify-terms`
+- 💸 [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AI coding and AWS assistance.
+  - **Free Tier Details:** A limited Free tier exists for eligible accounts. [AWS Free/Pro documentation](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-tiers.html). **Source checked:** 2026-10-19.
+  - **Tags:** `coding`, `aws`, `freemium`
+
 - 💿 [Chat2DB](https://github.com/chat2db/Chat2DB) - An open-source database IDE with NLP-to-SQL.
   - **Free Tier Details:** Free, open-source "Community plan" available on GitHub. Licensed under Apache License 2.0, which permits commercial use.
   - **Tags:** `database-ide`, `sql`, `nosql`, `nlp-to-sql`, `open-source`, `commercial-use`
-- ⚠️ [Codeium](https://www.codeium.com/) - An unlimited AI code completion and chat tool.
-  - **Free Tier Details:** "Free tier forever" offers unlimited code autocomplete and chat functionality. **Note:** A clear, verifiable commercial use license is not provided in the research documentation.
-  - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`, `gold-tier`, `⚠️-commercial-use-unconfirmed`
+- 💸 [Devin Desktop (formerly Windsurf / Codeium)](https://windsurf.com/editor) - An AI development environment and agent workspace.
+  - **Free Tier Details:** A $0 individual plan is listed; features and agent allowances are limited. [Official plan overview](https://windsurf.com/editor). **Source checked:** 2026-10-19.
+  - **Tags:** `ai-ide`, `coding-agent`, `freemium`
+
 - 💸 [Cursor "Hobby"](https://cursor.sh/) - An AI code assistant with advanced features.
   - **Free Tier Details:** Permanent free "Hobby" plan with 50 slow premium model uses and 2,000 standard completions per month. Explicitly grants commercial use rights for all generated code.
   - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`, `commercial-use`
 - 🎁 [GitHub Actions](https://github.com/features/actions) - A CI/CD automation platform.
   - **Free Tier Details:** 2,000 free minutes per month for private repositories; unlimited for public repositories. A foundational tool for modern software development.
   - **Tags:** `ci-cd`, `devops`, `automation`, `freemium`
-- ⚠️ [GitHub Copilot](https://github.com/features/copilot) - An AI pair programmer.
-  - **Free Tier Details:** Permanent free plan for individuals with 50 chat requests and 2,000 code completions per month. **Note:** An explicit commercial use license for the standard free tier is not present in easily accessible documentation, creating legal ambiguity.
-  - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `freemium`, `⚠️-commercial-use-unconfirmed`
-- 💿 [HARPA AI](https://harpa.ai/) - An open source AI toolbox with BYOK support.
-  - **Free Tier Details:** Open source, unlimited with own API keys, generous free tier.
-  - **Tags:** `ai-toolbox`, `open-source`, `byok`, `web-automation`
+- 💸 [GitHub Copilot Free](https://github.com/features/copilot) - An AI coding assistant for individual developers.
+  - **Free Tier Details:** Eligible accounts get up to 2,000 inline suggestions and 50 premium requests per month. [Official plans](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/getting-started-with-copilot-on-your-personal-account/about-individual-copilot-plans-and-benefits). **Source checked:** 2026-10-19.
+  - **Tags:** `coding`, `freemium`
+
+
 - 🎁 [Microsoft IntelliCode](https://visualstudio.microsoft.com/services/intellicode/) - An AI-assisted code development tool in Visual Studio.
   - **Free Tier Details:** A genuinely free feature enhancement for widely used professional IDEs, with no indication of restrictive licensing.
   - **Tags:** `code-completion`, `ai-assistant`, `developer-tool`, `local-inference`, `free`
@@ -171,9 +197,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 💸 [Snyk](https://snyk.io/) - A developer security platform that helps find and fix vulnerabilities in code, open source dependencies, and containers.
   - **Free Tier Details:** The free plan includes a limited number of monthly tests across its various security products (SCA, SAST, IaC).
   - **Tags:** `security`, `devsecops`, `developer-tool`, `freemium`, `sast`
-- 💸 [Sourcegraph Cody Free](https://sourcegraph.com/cody) - An AI coding assistant with deep codebase context.
-  - **Free Tier Details:** Provides 500,000 tokens of context per month and 200 chat/commands.
-  - **Tags:** `code-assistant`, `context-aware`, `developer-tool`, `freemium`
+
 - 💸 [SQLAI.ai](https://ai.bizequals.com/sqlaiai) - An AI assistant for SQL/NoSQL optimization.
   - **Free Tier Details:** 3 free requests per month, using a GPT-3.5 engine.
   - **Tags:** `sql`, `nosql`, `ai-assistant`, `freemium`
@@ -196,7 +220,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** The free tier includes 25 pull request reviews per day and 100 premium MCP tool calls per day.
   - **Tags:** `code-quality`, `guardrails`, `developer-tool`, `freemium`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## </> Developer Libraries & Models
 
@@ -226,9 +250,13 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - ⚠️ [Nvidia Chat with RTX](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx/) - A local generative AI for your PC.
   - **Free Tier Details:** Genuinely free to download and use indefinitely. **Note:** Requires high-end NVIDIA RTX 30/40 series GPU. A specific EULA for commercial use was not available for verification.
   - **Tags:** `local-ai`, `chatbot`, `rag`, `⚠️-hardware-required`, `⚠️-commercial-use-unconfirmed`
-- 💿 [Playwright MCP Server](https://github.com/microsoft/playwright-python) - An LLM-driven browser automation and test generation tool.
-  - **Free Tier Details:** Open source and free to use under the MIT license.
-  - **Tags:** `browser-automation`, `testing`, `open-source`, `llm-driven`
+- 💿 [Ollama](https://github.com/ollama/ollama) - Run AI models locally on your computer.
+  - **Free Tier Details:** The local runtime is open-source; model license and hardware requirements vary. Cloud options are separate. [Official source](https://github.com/ollama/ollama). **Source checked:** 2026-10-19.
+  - **Tags:** `local-ai`, `self-hosted`, `open-source`
+- 💿 [Playwright MCP Server](https://github.com/microsoft/playwright-mcp) - A browser automation MCP server for AI agents.
+  - **Free Tier Details:** Apache-2.0 licensed and locally runnable; external AI model usage is separate. [Official repository](https://github.com/microsoft/playwright-mcp). **Source checked:** 2026-10-19.
+  - **Tags:** `mcp`, `browser-automation`, `open-source`
+
 - 💿 [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - An open-source AI image upscaling tool.
   - **Free Tier Details:** Open-source, local CLI solution with unlimited batch processing.
   - **Tags:** `image-upscaling`, `open-source`, `commercial-use`
@@ -248,7 +276,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** The tool is open-source and can be self-hosted for free.
   - **Tags:** `database`, `ide`, `developer-tool`, `open-source`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## 🚀 Infrastructure & APIs
 
@@ -263,6 +291,9 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 💸 [Clarifai](https://www.clarifai.com/) - An AI platform for building, deploying, and scaling AI models and agents with a focus on low latency.
   - **Free Tier Details:** The "Community" plan includes up to 1,000 API calls per month.
   - **Tags:** `ai-platform`, `api`, `mlops`, `image-recognition`, `freemium`
+- 💸 [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/) - Serverless model inference at the edge.
+  - **Free Tier Details:** 10,000 free neurons/day on eligible models; some models require a paid plan. [Official pricing](https://developers.cloudflare.com/workers-ai/platform/pricing/). **Source checked:** 2026-10-19.
+  - **Tags:** `ai-api`, `edge`, `free-tier`
 - 💸 [Composio](https://composio.dev/) - An integration platform that connects AI agents and LLMs to thousands of real-world tools and APIs.
   - **Free Tier Details:** The free plan provides 20,000 tool calls per month.
   - **Tags:** `api`, `agents`, `llm`, `developer-tool`, `freemium`
@@ -275,9 +306,10 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 🎁 [DeepSeek](https://www.deepseek.com/en) - A Large Language Model API.
   - **Free Tier Details:** Claims to have no rate limits on its API, even for free access.
   - **Tags:** `llm-api`, `no-rate-limit`, `free-api`
-- 💸 [Google Gemini API](https://ai.google.dev/gemini-api/docs/pricing) - An API providing access to Gemini models for developers.
-  - **Free Tier Details:** Free access via API with rate limits of 5 RPM and 25 RPD.
-  - **Tags:** `llm-api`, `api-access`, `freemium`, `multimodal`
+- 💸 [Google Gemini API](https://ai.google.dev/gemini-api/docs/pricing) - An API for Gemini models.
+  - **Free Tier Details:** A limited free tier exists for certain models; quotas and data-use rules vary. [Official pricing](https://ai.google.dev/gemini-api/docs/pricing). **Source checked:** 2026-10-19.
+  - **Tags:** `llm-api`, `multimodal`, `freemium`
+
 - 🎁 [Google Translate API](https://cloud.google.com/translate/pricing) - A machine translation API.
   - **Free Tier Details:** 500,000 characters per month for free for API usage.
   - **Tags:** `translation-api`, `multilingual`, `api`, `free`
@@ -312,7 +344,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** The free account includes 2,000 API credits per month.
   - **Tags:** `web-scraping`, `api`, `developer-tool`, `freemium`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## 📊 Data, Observability & Analysis
 
@@ -403,7 +435,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
   - **Free Tier Details:** Maximum 15,000,000 rows per data file and 10 GB of cloud storage. Only public publications are allowed.
   - **Tags:** `data-analysis`, `business-intelligence`, `data-visualization`, `freemium`
 
-<div align="right">[ <a href="#table-of-contents">back to top</a> ]</div>
+<div align="right">[ <a href="#contents">back to top</a> ]</div>
 
 ## 📈 Productivity & Automation
 
@@ -439,9 +471,10 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 💸 [Grammarly](https://www.grammarly.com/) - A generative AI writing assistant and grammar checker.
   - **Free Tier Details:** 100 generative AI prompts per month for AI writing assistance and grammar checking.
   - **Tags:** `writing-assistant`, `grammar-checker`, `generative-ai`, `freemium`
-- 💸 [HARPA/Merlin](https://harpa.ai/) - A multi-purpose AI toolbox for any webpage.
-  - **Free Tier Details:** Provides a unified interface to access various leading LLMs on any webpage.
-  - **Tags:** `ai-toolbox`, `web-automation`, `content-creation`, `freemium`
+- 💸 [HARPA AI](https://harpa.ai/) - An AI browser extension for interacting with websites.
+  - **Free Tier Details:** **Needs 2026 review:** Verify current free quotas and possible external model/API charges before use.
+  - **Tags:** `browser`, `automation`, `freemium`
+
 - 💸 [IFTTT](https://ifttt.com/) - A basic automation for applets and webhooks.
   - **Free Tier Details:** Basic applets are free. Offers access to 10 AI services in its Pro+ trial.
   - **Tags:** `workflow-automation`, `productivity`, `freemium`
@@ -466,9 +499,7 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 - 💸 [Make (Integromat)](https://www.make.com/) - A no-code workflow automation with AI.
   - **Free Tier Details:** 1,000 operations per month with a 15-minute interval.
   - **Tags:** `workflow-automation`, `no-code`, `ai-agents`, `freemium`
-- 🎁 [Microsoft Excel AI (Excel Online)](https://www.microsoft.com/en-us/microsoft-36s5/free-online-version-of-microsoft-excel) - An online spreadsheet with AI capabilities.
-  - **Free Tier Details:** Excel Online is free. Includes "Analyze Data" (Ideas).
-  - **Tags:** `spreadsheet`, `ai-features`, `productivity`, `free`
+
 - 💸 [Microsoft Power Automate](https://powerautomate.microsoft.com/) - A workflow automation for cloud flows.
   - **Free Tier Details:** Provides 6,000 requests per user every 24 hours.
   - **Tags:** `workflow-automation`, `productivity`, `freemium`
@@ -523,9 +554,15 @@ A curated list of rigorously vetted AI tools, services, and resources with gener
 
 ---
 
+## Editorial policy
+
+The inherited 2025 catalog is being rechecked in stages. Old per-tool quotas and license statements should be treated as historical until supported with current first-party sources. A source check is not a hands-on test.
+
+[Report outdated information or suggest a tool](https://github.com/FullThrottle83/awesome-free-ai/issues/new/choose). Disclose affiliations and substantiate free-access claims with dated primary sources.
+
 ## Why This List?
 
-In a world of expensive AI subscriptions and misleading "free trials", this project aims to be a definitive, trustworthy guide. The focus is on practical tools you can start using today, with clear details on what "free" actually means.
+We aim for a transparent, independent directory that explains meaningful no-cost AI access without hiding limitations or relying on trials.
 
 ## Contributing
 

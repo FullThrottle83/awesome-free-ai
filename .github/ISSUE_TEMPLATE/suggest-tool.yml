@@ -1,0 +1,39 @@
+name: Suggest an AI tool
+description: Propose useful AI software with ongoing free access
+title: "Suggest: "
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Tool name and URL
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What does it do and exactly what is free?
+      description: Include recurring quotas, restrictions, and whether a payment method is required.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official pricing or license URL
+    validations:
+      required: true
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Affiliation
+      options:
+        - None
+        - Product owner or team member
+        - Affiliate, reseller, or other relationship
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date checked (YYYY-MM-DD)
+    validations:
+      required: true
