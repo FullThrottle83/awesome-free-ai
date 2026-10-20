@@ -53,30 +53,48 @@
 
 *Tools for creating and editing images, designs, and vector graphics.*
 
-- 💸 [Adobe Firefly](https://firefly.adobe.com/) - An AI image generation, video, audio, and vector features platform.
-  - **Free Tier Details:** Provides a monthly renewing allotment of "generative credits". Outputs are commercially safe and contractually indemnified by Adobe.
-  - **Tags:** `image-generation`, `video-generation`, `audio-generation`, `commercial-safe`, `freemium`
-- 💸 [Artbreeder](https://www.artbreeder.com/) - An AI tool for image generation, mixing, and splicing.
-  - **Free Tier Details:** Free plan with core tools and a monthly limit on image uploads. All created images are licensed under Creative Commons CC0 (public domain), permitting full commercial use.
-  - **Tags:** `image-generation`, `style-transfer`, `commercial-use`, `public-domain`, `freemium`
-- 🎁 [Craiyon](https://www.craiyon.com/) - An unlimited image generation tool with attribution.
-  - **Free Tier Details:** Unlimited image generation, supported by ads. Commercial use is permitted with mandatory attribution to craiyon.com.
-  - **Tags:** `image-generation`, `unlimited`, `commercial-use`, `ad-supported`, `free`
-- 🎁 [DeepAI](https://deepai.org/) - An unlimited text-to-image generation service.
-  - **Free Tier Details:** Offers a permanent free tier with its own model. Provides full commercial rights and dedicates generated content to the public domain.
-  - **Tags:** `text-to-image`, `unlimited`, `commercial-use`, `public-domain`, `free`
-- ⚠️ [Ideogram.ai](https://ideogram.ai/) - An AI image generation tool with superior text rendering.
-  - **Free Tier Details:** Offers 25 prompt generations per day. **Note:** Commercial use rights are not confirmed by an official primary source, creating legal ambiguity.
-  - **Tags:** `image-generation`, `typography`, `freemium`, `⚠️-commercial-use-unconfirmed`
-- 💸 [NightCafe](https://nightcafe.studio/) - An AI art generation tool with community features.
-  - **Free Tier Details:** Permanent free tier with a daily top-up of 5 credits. License terms explicitly allow for the commercial use and sale of creations.
-  - **Tags:** `image-generation`, `community`, `freemium`, `commercial-use`
-- 💸 [StarryAI](https://starryai.com/) - An AI art generation platform with mobile apps.
-  - **Free Tier Details:** Generous permanent free tier allowing up to 25 artworks daily without watermarks. License grants full ownership and commercial rights.
-  - **Tags:** `image-generation`, `mobile-app`, `commercial-use`, `freemium`, `high-quota`
-- 💿 [Waifu2x](http://waifu2x.udp.jp/) - An AI image upscaler for anime-style art and photos.
-  - **Free Tier Details:** Free and open-source software (FOSS) available for anyone to download and use. Licensed under a copyleft license that permits commercial use.
-  - **Tags:** `image-upscaling`, `open-source`, `foss`, `commercial-use`
+- 💸 [Adobe Firefly](https://firefly.adobe.com/) - AI image generation and editing, with additional creative features and partner models.
+  - **Free Tier Details:** A recurring free allowance has usage limits. Commercial-use guidance for Adobe's own models does not automatically apply to partners; [IP indemnification](https://business.adobe.com/products/firefly-business/firefly-ai-approach.html) is limited to eligible enterprise entitlements. [Official plans](https://www.adobe.com/products/firefly/plans.html). **Source checked:** 2026-10-19.
+  - **Tags:** `image-generation`, `editing`, `freemium`, `commercial-use-conditional`
+- 💸 [Artbreeder](https://www.artbreeder.com/) - Collaborative AI image generation and remixing.
+  - **Free Tier Details:** Free image tools and limited credits; paid plans add higher resolution, speed and privacy controls. Free creations may be public. [Official pricing](https://www.artbreeder.com/pricing) and [support](https://www.artbreeder.com/support). **Source checked:** 2026-10-19.
+  - **Tags:** `image-generation`, `remixing`, `public-output`, `freemium`
+- 💿 [ComfyUI](https://github.com/Comfy-Org/ComfyUI) - Node-based interface and execution engine for generative AI workflows.
+  - **Free Tier Details:** Open-source local software with no vendor inference subscription; GPUs, model weights and optional hosted/partner APIs have separate requirements. [Official repository](https://github.com/Comfy-Org/ComfyUI). **Source checked:** 2026-10-19.
+  - **Tags:** `image-generation`, `node-workflows`, `self-hosted`
+- 💸 [Craiyon](https://www.craiyon.com/) - Browser-based AI image generation and editing.
+  - **Free Tier Details:** Free generation is **limited**, with watermarks, public outputs and possible waiting. Commercial use requires attribution on the free plan. [Official pricing](https://www.craiyon.com/en/pricing). **Source checked:** 2026-10-19.
+  - **Tags:** `image-generation`, `watermark`, `attribution-required`, `freemium`
+- ⚠️ [DeepAI](https://deepai.org/) - Cloud AI tools for images, chat and audio.
+  - **Free Tier Details:** Free images, chat and music are **limited**, not unlimited. Review the [pricing](https://deepai.org/pricing) and [privacy policy](https://deepai.org/privacy-policy) before uploading personal or confidential content; user content may be used for training or shared under stated conditions. **Source checked:** 2026-10-19.
+  - **Tags:** `image-generation`, `privacy-review`, `freemium`
+- 💿 [FLUX.1 schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell) - Downloadable text-to-image model for local inference.
+  - **Free Tier Details:** Apache-2.0 model weights can be run locally; hardware or hosted inference can cost money. Do not confuse this license with FLUX.1 dev. [Official model card](https://huggingface.co/black-forest-labs/FLUX.1-schnell). **Source checked:** 2026-10-19.
+  - **Tags:** `open-weights`, `image-generation`, `local-ai`
+- 💸 [Ideogram](https://ideogram.ai/) - Text-to-image generation with strong typography capabilities.
+  - **Free Tier Details:** Eligible free accounts receive a recurring weekly generation allowance; eligible sign-in methods and amounts can change. Free images are public. The provider allows commercial output use under its terms. [Official pricing](https://ideogram.ai/pricing/). **Source checked:** 2026-10-19.
+  - **Tags:** `image-generation`, `typography`, `public-output`, `freemium`
+- 💿 [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Creative studio for locally running image generation and inpainting.
+  - **Free Tier Details:** Free Apache-2.0 software; compatible hardware and the selected model's own license are separate considerations. [Official repository](https://github.com/invoke-ai/InvokeAI). **Source checked:** 2026-10-19.
+  - **Tags:** `inpainting`, `image-generation`, `local-ai`
+- 💿 [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) - AI generation and inpainting plugin for the Krita painting application.
+  - **Free Tier Details:** Free local plugin with ComfyUI-backed workflows; requires model downloads and suitable hardware. Hosted providers are separate. [Official repository](https://github.com/Acly/krita-ai-diffusion). **Source checked:** 2026-10-19.
+  - **Tags:** `image-editing`, `inpainting`, `open-source`
+- 💸 [NightCafe Creator](https://creator.nightcafe.studio/) - Community-focused AI art generation using multiple models.
+  - **Free Tier Details:** Recurring free credits and selected no-credit generation modes; advanced models and priority processing can require payment. [Official plans](https://creator.nightcafe.studio/pricing) and [commercial-use guidance](https://help.nightcafe.studio/portal/en/kb/articles/does-the-license-allow-me-to-sell-my-creations-or-use-them-for-commercial-purposes). **Source checked:** 2026-10-19.
+  - **Tags:** `image-generation`, `community`, `freemium`
+- ⚠️ [Recraft](https://www.recraft.ai/) - AI graphic design and vector-image generation.
+  - **Free Tier Details:** Recurring limited free generations, but **free-plan images are public, owned by Recraft and not licensed for commercial use**. [Official pricing and rights FAQ](https://www.recraft.ai/pricing). **Source checked:** 2026-10-19.
+  - **Tags:** `vector-generation`, `non-commercial`, `public-output`
+- 💿 [rembg](https://github.com/danielgatis/rembg) - Local and self-hosted background removal for images.
+  - **Free Tier Details:** Open-source application without mandatory cloud fees. Model weights may carry different commercial-use terms; inspect the chosen model. [Official repository](https://github.com/danielgatis/rembg). **Source checked:** 2026-10-19.
+  - **Tags:** `background-removal`, `self-hosted`, `open-source`
+- 💸 [starryai](https://starryai.com/) - AI image creation and editing on web and mobile.
+  - **Free Tier Details:** Daily free credits cover a limited number of generation runs; multiple images from one run are not separate free prompts. Higher-resolution features are paid. [Official license](https://starryai.com/license). **Source checked:** 2026-10-19.
+  - **Tags:** `image-generation`, `mobile`, `freemium`
+- 💿 [waifu2x / nunif](https://github.com/nagadomi/nunif) - Open-source image upscaling and noise reduction, with waifu2x models.
+  - **Free Tier Details:** Run the maintained [nunif implementation](https://github.com/nagadomi/nunif) locally without a cloud subscription; the [original waifu2x project](https://github.com/nagadomi/waifu2x) is legacy. Runtime and third-party dependency licenses require separate review. **Source checked:** 2026-10-19.
+  - **Tags:** `image-upscaling`, `local-ai`, `open-source`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
 
@@ -84,13 +102,24 @@
 
 *Tools for generating music, voice, and other audio content.*
 
-- ⚠️ [Suno AI](https://suno.ai/) - An AI music generation tool with commercial rights.
-  - **Free Tier Details:** A permanent free plan is available, offering 50 credits (10 songs) that renew daily. **Note:** Free tier outputs are explicitly for non-commercial use only.
-  - **Tags:** `music-generation`, `freemium`, `⚠️-non-commercial`
-- 💸 [Udio](https://www.udio.com/) - An AI music generation platform.
-  - **Free Tier Details:** 10 daily credits plus an additional monthly pool of 100 credits. Commercial use is permitted on the free plan with attribution to Udio.
-  - **Tags:** `music-generation`, `commercial-use`, `freemium`
-
+- 💿 [ACE-Step](https://github.com/ace-step/ACE-Step) - Locally runnable AI music generation model and application.
+  - **Free Tier Details:** Downloadable software/model releases for local generation; hardware demands and licenses of individual versions and assets require checking. [Official repository](https://github.com/ace-step/ACE-Step). **Source checked:** 2026-10-19.
+  - **Tags:** `music-generation`, `local-ai`, `open-weights`
+- 💿 [Buzz](https://github.com/chidiwilliams/buzz) - Desktop app for offline transcription and subtitle generation.
+  - **Free Tier Details:** Free MIT-licensed software with local Whisper-compatible backends; model downloads and compute run on your device. [Official repository](https://github.com/chidiwilliams/buzz). **Source checked:** 2026-10-19.
+  - **Tags:** `transcription`, `subtitles`, `local-ai`
+- 💿 [Chatterbox TTS](https://github.com/resemble-ai/chatterbox) - Local text-to-speech and speech-generation models.
+  - **Free Tier Details:** Free local implementations and models are available; check individual model licenses and obtain consent for any voice cloning. [Official repository](https://github.com/resemble-ai/chatterbox). **Source checked:** 2026-10-19.
+  - **Tags:** `text-to-speech`, `voice`, `local-ai`
+- 💿 [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M) - Compact text-to-speech model runnable on local hardware.
+  - **Free Tier Details:** Apache-2.0 licensed model weights for local inference; requires your own compute and supporting software. [Official model card](https://huggingface.co/hexgrad/Kokoro-82M). **Source checked:** 2026-10-19.
+  - **Tags:** `text-to-speech`, `open-weights`, `local-ai`
+- ⚠️ [Suno](https://suno.com/) - AI music generation and songwriting.
+  - **Free Tier Details:** Free users receive recurring daily generation credits, but songs created on the free plan are **not licensed for commercial use**. [Official plans](https://suno.com/pricing) and [help center](https://help.suno.com/). **Source checked:** 2026-10-19.
+  - **Tags:** `music-generation`, `freemium`, `non-commercial`
+- 💿 [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - Local music source separation and vocal removal.
+  - **Free Tier Details:** Free, open-source desktop application; hardware requirements vary and rights to source recordings remain with their owners. [Official repository](https://github.com/Anjok07/ultimatevocalremovergui). **Source checked:** 2026-10-19.
+  - **Tags:** `source-separation`, `audio-editing`, `local-ai`
 - 💿 [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Local speech recognition powered by Whisper models.
   - **Free Tier Details:** The implementation is free and MIT-licensed; hardware and model licenses are separate. [Official source](https://github.com/ggml-org/whisper.cpp). **Source checked:** 2026-10-19.
   - **Tags:** `transcription`, `local-ai`, `open-source`
@@ -101,9 +130,15 @@
 
 *Tools for creating and editing video content.*
 
-- ⚠️ [CapCut](https://www.capcut.com/) - An AI-powered video editing and creation tool.
-  - **Free Tier Details:** Comprehensive free version of the video editor is available. **Warning:** The Terms of Service are predatory, granting CapCut a perpetual, worldwide, royalty-free license to use, modify, and monetize all user content, including private drafts. Use for sensitive or proprietary work is a significant risk.
-  - **Tags:** `video-editing`, `ai-features`, `unlimited`, `⚠️-predatory-tos`
+- ⚠️ [CapCut](https://www.capcut.com/) - Video editor with selected AI-powered effects and media tools.
+  - **Free Tier Details:** A free editing offering exists, but many AI features and assets require payment. User-upload and content-license terms deserve scrutiny before sensitive or client work. [Official terms](https://www.capcut.com/clause/terms-of-service) and [product](https://www.capcut.com/). **Source checked:** 2026-10-19.
+  - **Tags:** `video-editing`, `ai-features`, `freemium`, `privacy-review`
+- 💿 [LTX-Video](https://github.com/Lightricks/LTX-Video) - Open model ecosystem and inference code for AI video generation.
+  - **Free Tier Details:** Code is available under Apache-2.0; the terms for each model checkpoint and commercial use must be checked separately. Requires substantial compute. [Official repository](https://github.com/Lightricks/LTX-Video). **Source checked:** 2026-10-19.
+  - **Tags:** `video-generation`, `open-weights`, `local-ai`
+- 💿 [Wan video models](https://github.com/Wan-Video/Wan2.2) - Downloadable text/image-to-video model family and inference tooling.
+  - **Free Tier Details:** Model weights and inference code are available; check each checkpoint's terms and GPU requirements rather than assuming all outputs are unrestricted. [Official repository](https://github.com/Wan-Video/Wan2.2). **Source checked:** 2026-10-19.
+  - **Tags:** `video-generation`, `open-weights`, `local-ai`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
 
@@ -111,9 +146,12 @@
 
 *Tools for writing, editing, translation, and conversational AI.*
 
-- 💸 [ElevateAI](https://www.elevateai.com/) - An AI platform for transcription and generative AI features.
-  - **Free Tier Details:** The "1K Every Day" program provides 1,000 free interactions daily (transcription, GenAI features). This is a permanent, substantive free tier.
-  - **Tags:** `speech-to-text`, `transcription`, `api`, `freemium`
+- 💿 [Argos Translate](https://github.com/argosopentech/argos-translate) - Offline neural machine translation library and desktop tooling.
+  - **Free Tier Details:** Free, locally runnable translation software under MIT/CC0; the project also documents model package licensing. [Official repository](https://github.com/argosopentech/argos-translate). **Source checked:** 2026-10-19.
+  - **Tags:** `translation`, `offline`, `open-source`
+- 💿 [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Self-hosted machine translation API and web interface.
+  - **Free Tier Details:** Free open-source self-hosted service based on Argos Translate; public hosted API instances may require payment or API keys. [Official repository](https://github.com/LibreTranslate/LibreTranslate). **Source checked:** 2026-10-19.
+  - **Tags:** `translation`, `self-hosted`, `open-source`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
 
@@ -306,10 +344,12 @@
 - 🎁 [DeepSeek](https://www.deepseek.com/en) - A Large Language Model API.
   - **Free Tier Details:** Claims to have no rate limits on its API, even for free access.
   - **Tags:** `llm-api`, `no-rate-limit`, `free-api`
+- 💸 [ElevateAI](https://www.elevateai.com/) - AI transcription and language-processing API.
+  - **Free Tier Details:** A limited free development offering has been advertised; verify current quotas and terms with the provider before deployment. [Official site](https://www.elevateai.com/). **Review needed:** precise October 2026 free allocation is not independently confirmed. **Source checked:** 2026-10-19.
+  - **Tags:** `speech-to-text`, `api`, `freemium`
 - 💸 [Google Gemini API](https://ai.google.dev/gemini-api/docs/pricing) - An API for Gemini models.
   - **Free Tier Details:** A limited free tier exists for certain models; quotas and data-use rules vary. [Official pricing](https://ai.google.dev/gemini-api/docs/pricing). **Source checked:** 2026-10-19.
   - **Tags:** `llm-api`, `multimodal`, `freemium`
-
 - 🎁 [Google Translate API](https://cloud.google.com/translate/pricing) - A machine translation API.
   - **Free Tier Details:** 500,000 characters per month for free for API usage.
   - **Tags:** `translation-api`, `multilingual`, `api`, `free`
