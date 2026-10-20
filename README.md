@@ -159,13 +159,33 @@
 
 *Resources and programs for students, educators, and researchers.*
 
-- 🎁 [Gemini Notebook (formerly NotebookLM)](https://notebook.google.com/) - An AI research notebook grounded in your sources.
-  - **Free Tier Details:** Personal access without a paid subscription has feature and usage limits. [Official product](https://notebook.google.com/). **Source checked:** 2026-10-19.
-  - **Tags:** `research`, `source-grounded`, `free-tier`
-
-- ⚠️ [Paperpal](https://paperpal.com/) - An academic writing assistant.
-  - **Free Tier Details:** A permanent free plan with renewing monthly limits. **Note:** Primarily for academic use; the terms of service do not contain information regarding commercial use rights for outputs.
-  - **Tags:** `academic-writing`, `plagiarism-checker`, `freemium`, `⚠️-commercial-use-unconfirmed`
+- 💿 [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - Local-first document Q&A and knowledge workspaces with retrieval-augmented generation.
+  - **Free Tier Details:** MIT-licensed desktop and self-hosted software. Fully local processing requires locally configured models and storage; external LLM APIs can incur charges and transfer data. [Official repository](https://github.com/Mintplex-Labs/anything-llm). **Source checked:** 2026-10-19.
+  - **Tags:** `rag`, `document-chat`, `self-hosted`, `open-source`
+- 💸 [Consensus](https://consensus.app/) - Scientific literature search and AI-generated research synthesis.
+  - **Free Tier Details:** [Free tier](https://help.consensus.app/en/articles/10087865-subscription-plans) includes unlimited basic paper searches plus monthly quotas for Pro messages, reviews and API/MCP calls. Check privacy and regional processing terms for sensitive data. **Source checked:** 2026-10-19.
+  - **Tags:** `academic-research`, `literature-search`, `freemium`
+- 💸 [Elicit](https://elicit.com/) - Academic literature discovery, paper summaries and grounded paper chat.
+  - **Free Tier Details:** [Free Basic plan](https://elicit.com/pricing) includes ongoing paper search, summaries and limited Research Agent/Report access. Exact dynamic usage caps and confidential-data handling should be reviewed separately. **Source checked:** 2026-10-19.
+  - **Tags:** `academic-research`, `document-chat`, `freemium`
+- 🎁 [Gemini Notebook (formerly NotebookLM)](https://notebook.google.com/) - Source-grounded research notebooks with summaries and study artifacts.
+  - **Free Tier Details:** A no-cost personal tier has limits on notebooks, sources and generated content. Google's [plan comparison](https://notebook.google/plans) documents limits; confidential organizational workflows require a separate data-protection review. **Source checked:** 2026-10-19.
+  - **Tags:** `research-assistant`, `source-grounded`, `free-tier`
+- ⚠️ [Khanmigo for Teachers](https://www.khanmigo.ai/) - AI lesson planning and teaching support from Khan Academy.
+  - **Free Tier Details:** [Official educator offering](https://www.khanmigo.ai/pricing) is free for eligible teachers in supported countries; this is **not** an unrestricted free student or parent subscription. **Source checked:** 2026-10-19.
+  - **Tags:** `education`, `teacher-only`, `restricted-free`
+- 💿 [OpenAlex](https://openalex.org/) - Open scholarly metadata and citation graph with semantic search and an API.
+  - **Free Tier Details:** CC0 data and local/API research tooling. The [API pricing](https://help.openalex.org/access/pricing/) grants **$1/day in usage** with a free key ($0.10/day without); operations have different costs, not a flat request limit. [AI tooling](https://help.openalex.org/api/llm-quick-reference/). **Source checked:** 2026-10-19.
+  - **Tags:** `research-api`, `knowledge-graph`, `open-data`
+- ⚠️ [Paperpal](https://paperpal.com/) - AI-assisted academic writing, document review and research.
+  - **Free Tier Details:** The [Free plan](https://paperpal.com/pricing) has daily/monthly feature quotas. Authors retain rights to their manuscripts, but [product-specific terms](https://cactusglobal.com/terms-of-use-paperpal-illustrate/) may restrict commercial use of some features; [data policy](https://paperpal.com/data-security). **Source checked:** 2026-10-19.
+  - **Tags:** `academic-writing`, `freemium`, `commercial-terms-review`
+- 💸 [ResearchRabbit](https://www.researchrabbit.ai/) - Visual scholarly discovery through citations, related papers and collections.
+  - **Free Tier Details:** [Official Free tier](https://learn.researchrabbit.ai/en/articles/12865509-researchrabbit-free-tier) provides recurring citation mapping and research collections; larger seed sets and some features require ResearchRabbit+. **Source checked:** 2026-10-19.
+  - **Tags:** `research-discovery`, `citation-mapping`, `freemium`
+- 🎁 [Semantic Scholar](https://www.semanticscholar.org/) - Free AI-assisted discovery of scientific papers and citation context.
+  - **Free Tier Details:** Nonprofit free research platform with AI paper summaries and citation analysis; some features apply only to eligible papers. The [Academic Graph API](https://www.semanticscholar.org/product/api) is free with rate limits and data-use terms. [Product overview](https://www.semanticscholar.org/product). **Source checked:** 2026-10-19.
+  - **Tags:** `academic-research`, `literature-search`, `free-api`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
 
@@ -173,18 +193,36 @@
 
 *Chatbots, social media bots, and platforms for creating custom AI characters.*
 
-- 💸 [Google Gemini](https://gemini.google.com/) - A multimodal AI for data analysis and content generation.
-  - **Free Tier Details:** Free access to the Gemini 2.5 Flash model via web interface and a generous free API tier with rate limits. Full commercial rights are granted.
-  - **Tags:** `multimodal`, `data-analysis`, `long-context`, `api`, `gemini-2.5`, `silver-tier`
-- 🎁 [HuggingFace Chat](https://huggingface.co/chat/) - A free and open-source chat with various LLMs.
-  - **Free Tier Details:** A gateway to genuinely free and open-source models. Its core offering (HuggingChat) provides substantive utility. Commercial use rights are deferred to the underlying models' licenses.
-  - **Tags:** `llm-aggregator`, `open-source`, `chatbot`, `free`, `foss-gateway`
-- ⚠️ [Mistral Le Chat](https://chat.mistral.ai/) - An AI assistant from Mistral AI.
-  - **Free Tier Details:** A permanent "Free" plan is available with a daily message cap. **Note:** Terms of use restrict the service to "personal purposes or your own internal business needs," prohibiting use in external-facing commercial products.
-  - **Tags:** `chatbot`, `writing`, `coding`, `⚠️-non-commercial-external`
-- ⚠️ [xAI Grok](https://grok.com/) - An AI model with real-time information and multimodal features.
-  - **Free Tier Details:** Appears to be free to download and use. **Note:** A complete lack of detail regarding operational limits and licensing terms makes it impossible to verify for professional use.
-  - **Tags:** `llm`, `multimodal`, `real-time-search`, `⚠️-unverified`
+- 💸 [ChatGPT](https://chatgpt.com/) - General-purpose AI assistant with free conversational and selected multimodal tools.
+  - **Free Tier Details:** An ongoing [Free tier](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq) offers limited access to advanced capabilities; usage caps, default models and feature availability vary. Check [data controls](https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt) before using private information. **Source checked:** 2026-10-19.
+  - **Tags:** `chatbot`, `multimodal`, `freemium`
+- 💸 [Claude](https://claude.ai/) - AI assistant for writing, analysis, research and code.
+  - **Free Tier Details:** The [official Free plan](https://claude.com/pricing) is subject to usage and feature limits; review [training and privacy settings](https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training) before uploading sensitive content. **Source checked:** 2026-10-19.
+  - **Tags:** `chatbot`, `writing`, `coding`, `freemium`
+- ⚠️ [DeepSeek Chat](https://chat.deepseek.com/) - Hosted conversational and reasoning AI, distinct from the paid developer API.
+  - **Free Tier Details:** The consumer chat is available without a recurring subscription; dynamic usage limits apply. DeepSeek's [privacy policy](https://cdn.deepseek.com/policies/en-US/deepseek-privacy-policy.html) describes data storage and processing in China. Do not upload sensitive personal or client data. **Source checked:** 2026-10-19.
+  - **Tags:** `chatbot`, `free-service`, `privacy-review`
+- 🎁 [Duck.ai](https://duck.ai/) - Anonymous access to multiple third-party chat models via DuckDuckGo.
+  - **Free Tier Details:** Recurring no-account access to a selection of models with usage limits; paid plans unlock additional models. Review [official model availability](https://duckduckgo.com/duckduckgo-help-pages/duckai/chat-models) and [privacy practices](https://duckduckgo.com/duckduckgo-help-pages/duckai/ai-chat-privacy). **Source checked:** 2026-10-19.
+  - **Tags:** `multi-model`, `anonymous-chat`, `free-service`
+- 💸 [Google Gemini](https://gemini.google.com/) - Google's consumer AI assistant for conversation, multimodal tasks and web research.
+  - **Free Tier Details:** Recurring free access has dynamic usage and feature limits. The consumer app is **not** the same product as the separately listed Gemini API. Avoid confidential client information without evaluating [Gemini Apps privacy](https://support.google.com/gemini/answer/13594961) and [usage limits](https://support.google.com/gemini/answer/16275805). **Source checked:** 2026-10-19.
+  - **Tags:** `chatbot`, `multimodal`, `freemium`, `privacy-review`
+- ⚠️ [Grok](https://grok.com/) - Conversational AI assistant with search, file and multimodal features.
+  - **Free Tier Details:** A usage-limited free consumer offering is available, but no stable public free message quota is guaranteed. [Consumer FAQ](https://x.ai/legal/faq) addresses output use, while [brand guidelines](https://x.ai/legal/brand-guidelines) request attribution and [terms](https://x.ai/legal/terms-of-service) apply. **Source checked:** 2026-10-19.
+  - **Tags:** `chatbot`, `search`, `freemium`, `attribution-requested`
+- ⚠️ [Jan](https://www.jan.ai/) - Desktop AI chat and model-running application supporting local inference.
+  - **Free Tier Details:** The local desktop application can run models without a cloud subscription; hardware, downloaded model rights and optional provider APIs require separate review. [Official repository](https://github.com/janhq/jan). **Source checked:** 2026-10-19.
+  - **Tags:** `local-ai`, `desktop`, `self-hosted`, `license-review`
+- 💿 [LibreChat](https://github.com/LibreChat-AI/LibreChat) - Self-hosted multi-provider AI chat with agent and tool integrations.
+  - **Free Tier Details:** Free MIT-licensed interface; local models can avoid API charges, while connected commercial providers bill separately and may process transmitted prompts. [Official repository](https://github.com/LibreChat-AI/LibreChat). **Source checked:** 2026-10-19.
+  - **Tags:** `multi-model`, `agents`, `self-hosted`, `open-source`
+- 💸 [Mistral Le Chat / Vibe](https://chat.mistral.ai/) - Mistral's AI chat and assistant suite, including selected coding features.
+  - **Free Tier Details:** The [official Free plan](https://mistral.ai/pricing/) provides limited chat, search and creation features; coding session and connector allowances vary. Check [consumer terms](https://legal.mistral.ai/terms/eu-consumers-terms-of-service/) and privacy controls before client use. **Source checked:** 2026-10-19.
+  - **Tags:** `chatbot`, `search`, `coding-assistant`, `freemium`
+- 💸 [Perplexity AI](https://www.perplexity.ai/) - Search-oriented conversational AI with citations.
+  - **Free Tier Details:** The [Standard Free plan](https://www.perplexity.ai/help-center/en/articles/11187416-which-perplexity-subscription-plan-is-right-for-you) offers extensive basic searches, very limited Pro search and file uploads; premium models and image generation are paid. **Source checked:** 2026-10-19.
+  - **Tags:** `ai-search`, `chatbot`, `freemium`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
 
@@ -341,9 +379,6 @@
 - 🎁 [DeepL API Free](https://www.deepl.com/pro-api) - A high-quality machine translation API.
   - **Free Tier Details:** 500,000 characters per month for free.
   - **Tags:** `translation-api`, `nmt`, `api`, `free`
-- 🎁 [DeepSeek](https://www.deepseek.com/en) - A Large Language Model API.
-  - **Free Tier Details:** Claims to have no rate limits on its API, even for free access.
-  - **Tags:** `llm-api`, `no-rate-limit`, `free-api`
 - 💸 [ElevateAI](https://www.elevateai.com/) - AI transcription and language-processing API.
   - **Free Tier Details:** A limited free development offering has been advertised; verify current quotas and terms with the provider before deployment. [Official site](https://www.elevateai.com/). **Review needed:** precise October 2026 free allocation is not independently confirmed. **Source checked:** 2026-10-19.
   - **Tags:** `speech-to-text`, `api`, `freemium`
