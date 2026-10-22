@@ -553,6 +553,9 @@
 - 💸 [IFTTT](https://ifttt.com/) - A basic automation for applets and webhooks.
   - **Free Tier Details:** Basic applets are free. Offers access to 10 AI services in its Pro+ trial.
   - **Tags:** `workflow-automation`, `productivity`, `freemium`
+- 💸 [JobEmerge](https://www.jobemerge.work/) - An AI career workspace for resumes, job-fit analysis, interview practice and application tracking.
+  - **Free Tier Details:** The recurring free plan includes up to five saved resumes, limited AI coaching, all 33 public templates and one stored optimization; complete Job Fit reports and exports require a one-time Pro purchase. [Official pricing](https://www.jobemerge.work/pricing). **Source checked:** 2026-10-22.
+  - **Tags:** `career`, `resume-builder`, `job-search`, `freemium`
 - 💸 [LanguageTool](https://languagetool.org/) - A grammar, spelling, and style checker.
   - **Free Tier Details:** 10,000 characters per input and supports 20+ languages.
   - **Tags:** `grammar-checker`, `style-checker`, `multilingual`, `freemium`
