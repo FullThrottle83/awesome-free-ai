@@ -1,75 +1,37 @@
 # Contributing to Awesome Free AI
 
-Thank you for considering a contribution! Your help keeps this list awesome and useful to everyone.
+Accuracy beats list size. You can correct an outdated entry, report a broken link, or suggest an AI tool with meaningful recurring free access.
 
----
+## Rules
 
-## Code of Conduct
+1. Search the list, [open issues](https://github.com/FullThrottle83/awesome-free-ai/issues), and [PRs](https://github.com/FullThrottle83/awesome-free-ai/pulls) for duplicates.
+2. Submit one new tool per PR, alphabetically within the relevant category. Corrections can cover multiple entries.
+3. No time-limited trials, signup-only promotional credits, or unaffiliated generic utilities masquerading as free AI.
+4. Link a **first-party source** documenting the free tier, open-source license, or restrictions. Include **Source checked: YYYY-MM-DD**; never guess limits.
+5. Explain relevant limitations: rate limits, required payment cards, API inference, model licenses, commercial-use rights, data handling, and geographic restrictions. State uncertainty instead of asserting unverified facts.
+6. Disclose whether you are the developer, employee, reseller, affiliate, or otherwise affiliated with the product.
+7. Use clear, objective English; no superlatives or marketing copy.
 
-This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md).
+## Entry format
 
----
-
-## How to Contribute
-
-You can help by:
-
-- **Suggesting a new AI tool/service:** It must be genuinely free and truly awesome.
-- **Reporting/fixing broken links:** Outdated links hurt the list’s quality.
-- **Improving descriptions:** Make them clearer, more objective, or up-to-date.
-- **Updating free tier details:** Plans frequently change; accuracy matters.
-- **Suggesting new categories:** If the list grows, better structure helps everyone.
-
----
-
-## Adding a New Tool
-
-Follow these steps and rules:
-
-1. **Search first:** Ensure your suggestion isn’t already included.
-2. **One tool per pull request:** Submit each suggestion separately.
-3. **Alphabetize:** Place the new entry in alphabetical order within its category.
-4. **Format your entry like this:**
-
-```
-- [Tool Name](https://example.com/) - Brief, objective description.
-    - **Free Tier Details:** Be specific (“10,000 chars/mo”, “Unlimited with watermark”).
-    - **Tags:** `open-source`, `commercial-use`, `api`, etc.
+```md
+- 💸 [Example](https://example.com/) - A concise factual description.
+  - **Free Tier Details:** Recurring quota, important restrictions, and [official source](https://example.com/pricing). **Source checked:** YYYY-MM-DD.
+  - **Tags:** `ai-api`, `freemium`
 ```
 
-- Descriptions should start with a capital letter, end with a period, and avoid hype or marketing language.
-- Free tier details must be explicit.
-- Tags should be relevant and use backticks.
+Labels: 💿 OSI-licensed open source, 💸 freemium, 🎁 free service, ⚠️ restricted / not verified. Software being free does not mean model inference, infrastructure or commercial rights are free.
 
----
+## Local check
 
-## Submitting a Pull Request
+Install Node.js 22 or later, then run `node scripts/check-catalog.mjs`. It checks basic structure and duplicates, **not** live URLs or vendor pricing. A passing check does not prove a tool is currently free.
 
-1. **Fork** this repository.
-2. **Create a branch** (e.g., `feature/add-[tool]`).
-3. **Edit the `README.md`** with your suggested change.
-4. **Commit** with a clear message.
-5. **Push** and open a pull request. Describe what you changed and why.
+## Checklist
 
----
+- [ ] The listing is not already present or pending in another PR.
+- [ ] I verified the recurring free access or open-source license with an official source.
+- [ ] I provided the date checked and important restrictions.
+- [ ] I disclosed my affiliation (or explicitly stated none).
+- [ ] I ran the local catalog check.
 
-## Review Process
-
-- We check PRs for listing quality, formatting, and compliance with guidelines.
-- Only the very best free resources make the cut—quality over quantity!
-- PRs not following these rules may be closed or requested to revise.
-
----
-
-## Contributor Checklist
-
-- [ ] The tool is not already listed.
-- [ ] The entry follows the correct format.
-- [ ] The description is objective and concise.
-- [ ] Free tier details are provided and explicit.
-- [ ] Tags are suitable.
-- [ ] I have run [awesome-lint](https://github.com/sindresorhus/awesome-lint) on my changes.
-
----
-
-Thanks for helping us build the best free AI list for everyone!
+Contributions are reviewed for quality and evidence. Please discuss disagreements respectfully.
