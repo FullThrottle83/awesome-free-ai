@@ -193,6 +193,9 @@
 
 *Chatbots, social media bots, and platforms for creating custom AI characters.*
 
+- [WSUP AI](https://wsupai.app/) - Free AI character chat in the browser — talk to AI characters with no sign up. SFW only.
+  - **Free Tier Details:** Completely free character chat with no sign up required. SFW only.
+  - **Tags:** `chatbot`, `character`, `sfw`, `no-signup`
 - 💸 [ChatGPT](https://chatgpt.com/) - General-purpose AI assistant with free conversational and selected multimodal tools.
   - **Free Tier Details:** An ongoing [Free tier](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq) offers limited access to advanced capabilities; usage caps, default models and feature availability vary. Check [data controls](https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt) before using private information. **Source checked:** 2026-10-19.
   - **Tags:** `chatbot`, `multimodal`, `freemium`
