@@ -97,6 +97,9 @@
   - **Tags:** `image-upscaling`, `local-ai`, `open-source`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
+- 💸 [PromptImage](https://promptimage.cloud/) - Free AI image gallery plus image/video generator (Freemium).
+  - **Free Tier Details:** Free gallery browsing and freemium generation; heavier AI usage may need paid credits. Maker: Edison Yang. **Source checked:** 2026-10-24.
+  - **Tags:** `image-generation`, `gallery`, `freemium`, `video-generation`
 
 ## 🎵 Audio & Music
 
@@ -141,6 +144,9 @@
   - **Tags:** `video-generation`, `open-weights`, `local-ai`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
+- 💸 [GrokVideo Studio](https://grokvideogenerator.dev/) - Independent text/image-to-video app using the xAI Grok Imagine API (not affiliated with xAI or X).
+  - **Free Tier Details:** Free trial with 20 credits; then paid credits. Independent product. **Source checked:** 2026-10-24.
+  - **Tags:** `video-generation`, `text-to-video`, `image-to-video`, `freemium`, `independent`
 
 ## ✍️ Text & Language
 
