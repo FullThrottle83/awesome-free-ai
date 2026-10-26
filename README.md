@@ -80,6 +80,12 @@
 - 💿 [Krita AI Diffusion](https://github.com/Acly/krita-ai-diffusion) - AI generation and inpainting plugin for the Krita painting application.
   - **Free Tier Details:** Free local plugin with ComfyUI-backed workflows; requires model downloads and suitable hardware. Hosted providers are separate. [Official repository](https://github.com/Acly/krita-ai-diffusion). **Source checked:** 2026-10-19.
   - **Tags:** `image-editing`, `inpainting`, `open-source`
+- 🆓 [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap editor with model templates and PNG export.
+  - **Free Tier Details:** Core editing and PNG export free with no account; optional paid AI credits. **Source checked:** 2026-10-26.
+  - **Tags:** `design`, `mockup`, `no-account`, `freemium`
+- 💸 [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library.
+  - **Free Tier Details:** Signup credits without a credit card; freemium paid credits optional. **Source checked:** 2026-10-26.
+  - **Tags:** `image-generation`, `video-generation`, `prompt-library`, `freemium`
 - 💸 [NightCafe Creator](https://creator.nightcafe.studio/) - Community-focused AI art generation using multiple models.
   - **Free Tier Details:** Recurring free credits and selected no-credit generation modes; advanced models and priority processing can require payment. [Official plans](https://creator.nightcafe.studio/pricing) and [commercial-use guidance](https://help.nightcafe.studio/portal/en/kb/articles/does-the-license-allow-me-to-sell-my-creations-or-use-them-for-commercial-purposes). **Source checked:** 2026-10-19.
   - **Tags:** `image-generation`, `community`, `freemium`
@@ -130,6 +136,12 @@
 
 *Tools for creating and editing video content.*
 
+- 💸 [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via the Grok Imagine API (not affiliated with xAI or X).
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+  - **Free Tier Details:** Free trial credits; paid credits optional. **Source checked:** 2026-10-26.
+  - **Tags:** `video-generation`, `text-to-video`, `freemium`
 - ⚠️ [CapCut](https://www.capcut.com/) - Video editor with selected AI-powered effects and media tools.
   - **Free Tier Details:** A free editing offering exists, but many AI features and assets require payment. User-upload and content-license terms deserve scrutiny before sensitive or client work. [Official terms](https://www.capcut.com/clause/terms-of-service) and [product](https://www.capcut.com/). **Source checked:** 2026-10-19.
   - **Tags:** `video-editing`, `ai-features`, `freemium`, `privacy-review`
