@@ -117,6 +117,9 @@
 - ⚠️ [Suno](https://suno.com/) - AI music generation and songwriting.
   - **Free Tier Details:** Free users receive recurring daily generation credits, but songs created on the free plan are **not licensed for commercial use**. [Official plans](https://suno.com/pricing) and [help center](https://help.suno.com/). **Source checked:** 2026-10-19.
   - **Tags:** `music-generation`, `freemium`, `non-commercial`
+- 🎁 [Tunenoodle Audio to MIDI](https://tunenoodle.com/audio-to-midi) - Browser-based transcription of a clear melody or isolated pitched instrument into editable MIDI using Basic Pitch.
+  - **Free Tier Details:** The local audio utility is free without an account. Accepts recordings up to 20 MB or 5 minutes, subject to browser codec support; downloads a model for on-device processing. Drum transcription and instrument separation are not supported. Tunenoodle's paid cloud-song downloads are separate. Commercial-output rights and geographic availability are not independently verified; users must have rights to their source recordings. [Tool details](https://tunenoodle.com/audio-to-midi) and [pricing](https://tunenoodle.com/pricing). **Source checked:** 2026-10-27.
+  - **Tags:** `audio-to-midi`, `transcription`, `browser`, `local-ai`, `free-service`
 - 💿 [Ultimate Vocal Remover GUI](https://github.com/Anjok07/ultimatevocalremovergui) - Local music source separation and vocal removal.
   - **Free Tier Details:** Free, open-source desktop application; hardware requirements vary and rights to source recordings remain with their owners. [Official repository](https://github.com/Anjok07/ultimatevocalremovergui). **Source checked:** 2026-10-19.
   - **Tags:** `source-separation`, `audio-editing`, `local-ai`
