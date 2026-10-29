@@ -97,6 +97,9 @@
   - **Tags:** `image-upscaling`, `local-ai`, `open-source`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
+- 💸 [PromptImage](https://promptimage.cloud/) - Free AI image gallery plus image/video generator (Freemium).
+  - **Free Tier Details:** Free gallery browsing and freemium generation; heavier AI usage may need paid credits. Maker: Edison Yang. **Source checked:** 2026-10-24.
+  - **Tags:** `image-generation`, `gallery`, `freemium`, `video-generation`
 
 ## 🎵 Audio & Music
 
@@ -141,6 +144,15 @@
   - **Tags:** `video-generation`, `open-weights`, `local-ai`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
+- 💸 [GrokVideo Studio](https://grokvideogenerator.dev/) - Independent text/image-to-video app using the xAI Grok Imagine API (not affiliated with xAI or X).
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s widescreen solo dance video (Paid from $7.99; not affiliated with Riot/KDA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent unofficial AI dance: two photos → neon dual dance video (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent unofficial AI dance effect: one photo → short dance video (Paid from $7.99)
+  - **Free Tier Details:** Free trial with 20 credits; then paid credits. Independent product. **Source checked:** 2026-10-24.
+  - **Tags:** `video-generation`, `text-to-video`, `image-to-video`, `freemium`, `independent`
 
 ## ✍️ Text & Language
 
