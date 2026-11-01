@@ -230,6 +230,10 @@
 
 *AI-powered tools to assist with coding, testing, and security analysis.*
 
+- ⚠️ [agent-qa](https://vostride.com) - Web, Android and iOS QA via CLI/MCP, with memidex memory and evidence-gated self-improvement.
+  - **Free Tier Details:** Free CLI under [FSL-1.1-ALv2](https://vostride.com/license); competing commercial offerings are restricted. Requires Node.js 24+ and your own [model access](https://vostride.com/docs/agent-qa/configuration/models): local OpenAI-compatible servers are supported, while hosted API or subscription fees and hardware costs are separate. **Source checked:** 2026-11-01.
+  - **Tags:** `testing`, `coding-agent`, `mcp`, `byok`, `restricted-license`
+
 - 💸 [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AI coding and AWS assistance.
   - **Free Tier Details:** A limited Free tier exists for eligible accounts. [AWS Free/Pro documentation](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/q-tiers.html). **Source checked:** 2026-10-19.
   - **Tags:** `coding`, `aws`, `freemium`
