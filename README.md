@@ -165,6 +165,9 @@
 - 💸 [Consensus](https://consensus.app/) - Scientific literature search and AI-generated research synthesis.
   - **Free Tier Details:** [Free tier](https://help.consensus.app/en/articles/10087865-subscription-plans) includes unlimited basic paper searches plus monthly quotas for Pro messages, reviews and API/MCP calls. Check privacy and regional processing terms for sensitive data. **Source checked:** 2026-10-19.
   - **Tags:** `academic-research`, `literature-search`, `freemium`
+- 💸 [DisconfirmAI](https://disconfirmai.com/en) - AI investment research workspace for sourced public reading, filings research, and seeking disconfirming evidence before conviction.
+  - **Free Tier Details:** Reading, investment frameworks and revisiting existing content are always free. New accounts receive 400 welcome credits, then 100 daily sign-in credits for the first 7 UTC dates after registration; personalized research and radar analysis consume credits ([official pricing](https://disconfirmai.com/en/pricing)). **Source checked:** 2026-11-06.
+  - **Tags:** `investment-research`, `research-assistant`, `freemium`
 - 💸 [Elicit](https://elicit.com/) - Academic literature discovery, paper summaries and grounded paper chat.
   - **Free Tier Details:** [Free Basic plan](https://elicit.com/pricing) includes ongoing paper search, summaries and limited Research Agent/Report access. Exact dynamic usage caps and confidential-data handling should be reviewed separately. **Source checked:** 2026-10-19.
   - **Tags:** `academic-research`, `document-chat`, `freemium`
