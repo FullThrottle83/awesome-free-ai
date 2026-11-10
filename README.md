@@ -152,6 +152,9 @@
 - 💿 [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Self-hosted machine translation API and web interface.
   - **Free Tier Details:** Free open-source self-hosted service based on Argos Translate; public hosted API instances may require payment or API keys. [Official repository](https://github.com/LibreTranslate/LibreTranslate). **Source checked:** 2026-10-19.
   - **Tags:** `translation`, `self-hosted`, `open-source`
+- 💸 [Prompt Generator](https://trypromptgenerator.com/) - Writes prompts in the syntax of a chosen AI tool (ChatGPT, Claude, Gemini, Midjourney, Nano Banana, Veo, Sora and others).
+  - **Free Tier Details:** 10 prompts a day per device without an account, 20 a day with a free account, then 1 credit per prompt; no payment card needed. Prompts are written by a hosted LLM (server-side inference). Paid plans start at $9/month. [Official pricing](https://trypromptgenerator.com/pricing). **Source checked:** 2026-11-10.
+  - **Tags:** `prompt-engineering`, `writing`, `freemium`
 
 <div align="right">[ <a href="#contents">back to top</a> ]</div>
 
